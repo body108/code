@@ -1,0 +1,16 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#bmtIbNr7SUK1IYl5KEwAAg" alt="Adrenals" border ="0">
+<map name="bmtIbNr7SUK1IYl5KEwAAg">
+<area shape="rect" coords="414, 407, 435, 428" href="../Endocrine System/index.html" alt="Endocrine System">
+<area shape="rect" coords="327, 395, 436, 430" href="../Endocrine System/index.html" alt="Endocrine System">
+<area shape="rect" coords="414, 368, 435, 389" href="../Glands/index.html" alt="Glands">
+<area shape="rect" coords="354, 371, 436, 391" href="../Glands/index.html" alt="Glands">
+<area shape="rect" coords="517, 411, 538, 432" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="443, 369, 540, 432" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="573, 332, 594, 353" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="360, 195, 596, 355" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

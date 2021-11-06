@@ -1,0 +1,15 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#JbRZsjkQkmap1gtLM0NZQ" alt="Allergy or Intolerance" border ="0">
+<map name="JbRZsjkQkmap1gtLM0NZQ">
+<area shape="rect" coords="365, 243, 385, 263" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="219, 201, 387, 265" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="189, 438, 209, 457" href="file:///X:/Body Code Maps/Food Intolerance/index.html" alt="Food Intolerance">
+<area shape="rect" coords="8, 333, 214, 459" href="file:///X:/Body Code Maps/Food Intolerance/index.html" alt="Food Intolerance">
+<area shape="rect" coords="569, 436, 588, 455" href="file:///X:/Body Code Maps/Thought or Idea/index.html" alt="Thought or Idea">
+<area shape="rect" coords="392, 333, 591, 457" href="file:///X:/Body Code Maps/Thought or Idea/index.html" alt="Thought or Idea">
+<area shape="rect" coords="560, 111, 580, 131" href="file:///X:/Body Code Maps/Physical/index.html" alt="Physical">
+<area shape="rect" coords="392, 8, 582, 133" href="file:///X:/Body Code Maps/Physical/index.html" alt="Physical">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

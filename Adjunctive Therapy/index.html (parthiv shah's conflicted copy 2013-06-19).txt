@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#2AsF32vdgkumyCpkRlxcQw" alt="Adjunctive Therapy" border ="0">
+<map name="2AsF32vdgkumyCpkRlxcQw">
+<area shape="rect" coords="395, 312, 416, 333" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="333, 272, 418, 333" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="498, 226, 519, 247" href="../Outside Needs/index.html" alt="Outside Needs">
+<area shape="rect" coords="235, 55, 521, 249" href="../Outside Needs/index.html" alt="Outside Needs">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

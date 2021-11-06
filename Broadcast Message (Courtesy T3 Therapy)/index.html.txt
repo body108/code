@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#GcpoG22e0qshuu9LTMusg" alt="Broadcast Message (Courtesy T3 Therapy)" border ="0">
+<map name="GcpoG22e0qshuu9LTMusg">
+<area shape="rect" coords="159, 386, 180, 407" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="97, 345, 182, 407" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="261, 308, 282, 329" href="../Mental/index.html" alt="Mental">
+<area shape="rect" coords="8, 139, 284, 331" href="../Mental/index.html" alt="Mental">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

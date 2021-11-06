@@ -1,0 +1,18 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#cpmsT4GFvUiAthD5KsoTQ" alt="Acupuncture System" border ="0">
+<map name="cpmsT4GFvUiAthD5KsoTQ">
+<area shape="rect" coords="944, 104, 964, 125" href="../The Eight Extraordinary Meridians/index.html" alt="The Eight Extraordinary Meridians">
+<area shape="rect" coords="611, 9, 967, 127" href="../The Eight Extraordinary Meridians/index.html" alt="The Eight Extraordinary Meridians">
+<area shape="rect" coords="582, 273, 603, 294" href="../Circuits &amp; Systems/index.html" alt="Circuits &amp; Systems">
+<area shape="rect" coords="369, 109, 605, 295" href="../Circuits &amp; Systems/index.html" alt="Circuits &amp; Systems">
+<area shape="rect" coords="506, 350, 527, 371" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="444, 310, 529, 371" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="337, 388, 358, 409" href="../The Twelve Standard Meridians/index.html" alt="The Twelve Standard Meridians">
+<area shape="rect" coords="60, 277, 363, 411" href="../The Twelve Standard Meridians/index.html" alt="The Twelve Standard Meridians">
+<area shape="rect" coords="337, 104, 358, 125" href="LinkedDocuments/BC-Dental-Relationships-Chart.pdf" alt="BC-Dental-Relationships-Chart.pdf" target="_blank" >
+<area shape="rect" coords="8, 8, 363, 127" href="LinkedDocuments/BC-Dental-Relationships-Chart.pdf" alt="BC-Dental-Relationships-Chart.pdf" target="_blank" >
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

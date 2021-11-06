@@ -1,0 +1,22 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#ZQbtVEFPcEmcHk8LHYb3lw" alt="Brain" border ="0">
+<map name="ZQbtVEFPcEmcHk8LHYb3lw">
+<area shape="rect" coords="901, 130, 921, 151" href="../Cerebrum/index.html" alt="Cerebrum">
+<area shape="rect" coords="620, 8, 924, 153" href="../Cerebrum/index.html" alt="Cerebrum">
+<area shape="rect" coords="924, 587, 945, 608" href="../Pineal Gland/index.html" alt="Pineal Gland">
+<area shape="rect" coords="620, 500, 947, 610" href="../Pineal Gland/index.html" alt="Pineal Gland">
+<area shape="rect" coords="369, 477, 389, 498" href="../Pituitary Gland/index.html" alt="Pituitary Gland">
+<area shape="rect" coords="55, 392, 394, 500" href="../Pituitary Gland/index.html" alt="Pituitary Gland">
+<area shape="rect" coords="369, 343, 389, 364" href="../Hypothalamus/index.html" alt="Hypothalamus">
+<area shape="rect" coords="8, 259, 394, 366" href="../Hypothalamus/index.html" alt="Hypothalamus">
+<area shape="rect" coords="369, 211, 389, 232" href="../Brain Stem/index.html" alt="Brain Stem">
+<area shape="rect" coords="81, 118, 394, 233" href="../Brain Stem/index.html" alt="Brain Stem">
+<area shape="rect" coords="529, 390, 550, 411" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="467, 350, 552, 411" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="545, 311, 566, 331" href="../Central Nervous System/index.html" alt="Central Nervous System">
+<area shape="rect" coords="446, 285, 568, 333" href="../Central Nervous System/index.html" alt="Central Nervous System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->
