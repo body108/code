@@ -1,0 +1,14 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#yOfjAqnR0itFZLnV7GFA" alt="Referrals" border ="0">
+<map name="yOfjAqnR0itFZLnV7GFA">
+<area shape="rect" coords="328, 154, 349, 174" href="../Outside Needs/index.html" alt="Outside Needs">
+<area shape="rect" coords="195, 128, 351, 176" href="../Outside Needs/index.html" alt="Outside Needs">
+<area shape="rect" coords="626, 13, 646, 33" href="http://www.beating-cancer-gently.com" alt="http://www.beating-cancer-gently.com">
+<area shape="rect" coords="386, 9, 649, 35" href="http://www.beating-cancer-gently.com" alt="http://www.beating-cancer-gently.com">
+<area shape="rect" coords="538, 221, 558, 241" href="http://www.holisticdentalnetwork.com/directory_splash.php" alt="http://www.holisticdentalnetwork.com/directory_splash.php">
+<area shape="rect" coords="386, 217, 561, 243" href="http://www.holisticdentalnetwork.com/directory_splash.php" alt="http://www.holisticdentalnetwork.com/directory_splash.php">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

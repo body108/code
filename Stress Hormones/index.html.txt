@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#2VqK8nOFkiWbbddze08g" alt="Stress Hormones" border ="0">
+<map name="2VqK8nOFkiWbbddze08g">
+<area shape="rect" coords="149, 274, 170, 295" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="87, 234, 172, 295" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="229, 189, 250, 210" href="../Excesses/index.html" alt="Excesses ">
+<area shape="rect" coords="8, 52, 252, 212" href="../Excesses/index.html" alt="Excesses ">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

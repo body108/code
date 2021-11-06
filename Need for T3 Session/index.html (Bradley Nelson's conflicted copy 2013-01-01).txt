@@ -1,0 +1,13 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#cEGr4Ni90KrPkOMTe3iA" alt="Need for T3 Session" border ="0">
+<map name="cEGr4Ni90KrPkOMTe3iA">
+<area shape="rect" coords="352, 254, 373, 275" href="../Mental/index.html" alt="Mental">
+<area shape="rect" coords="201, 136, 375, 276" href="../Mental/index.html" alt="Mental">
+<area shape="rect" coords="169, 323, 189, 343" href="http://www.youtube.com/watch?v=qyaTk2CxCzw" alt="http://www.youtube.com/watch?v=qyaTk2CxCzw">
+<area shape="rect" coords="8, 311, 194, 345" href="http://www.youtube.com/watch?v=qyaTk2CxCzw" alt="http://www.youtube.com/watch?v=qyaTk2CxCzw">
+<area shape="rect" coords="169, 78, 189, 99" href="http://www.DrBradleyNelson.com/services" alt="http://www.DrBradleyNelson.com/services">
+<area shape="rect" coords="32, 67, 194, 101" href="http://www.DrBradleyNelson.com/services" alt="http://www.DrBradleyNelson.com/services">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

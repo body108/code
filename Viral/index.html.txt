@@ -1,0 +1,14 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#H126GxvTcUePGuNPpZsNA" alt="Viral" border ="0">
+<map name="H126GxvTcUePGuNPpZsNA">
+<area shape="rect" coords="572, 264, 592, 285" href="../Pathogens/index.html" alt="Pathogens">
+<area shape="rect" coords="360, 115, 594, 287" href="../Pathogens/index.html" alt="Pathogens">
+<area shape="rect" coords="498, 351, 519, 372" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="436, 311, 521, 372" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="212, 165, 233, 186" href="../Activated Sodium Chlorite/index.html" alt="Activated Sodium Chlorite">
+<area shape="rect" coords="60, 164, 235, 188" href="../Activated Sodium Chlorite/index.html" alt="Activated Sodium Chlorite">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

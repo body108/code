@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#WrBmdDxgzUeT76aP69c6bA" alt="Shaoyin Heart Meridian of Hand " border ="0">
+<map name="WrBmdDxgzUeT76aP69c6bA">
+<area shape="rect" coords="279, 601, 300, 622" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="217, 561, 302, 622" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="471, 519, 492, 540" href="../The Twelve Standard Meridians/index.html" alt="The Twelve Standard Meridians">
+<area shape="rect" coords="8, 9, 494, 541" href="../The Twelve Standard Meridians/index.html" alt="The Twelve Standard Meridians">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

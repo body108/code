@@ -1,0 +1,26 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#66OwT5xI7kyiDZDsp1UY5Q" alt="Muscular System" border ="0">
+<map name="66OwT5xI7kyiDZDsp1UY5Q">
+<area shape="rect" coords="314, 416, 334, 437" href="../Back Muscles/index.html" alt="Back Muscles">
+<area shape="rect" coords="65, 340, 339, 439" href="../Back Muscles/index.html" alt="Back Muscles">
+<area shape="rect" coords="305, 292, 326, 312" href="../Upper Limb Muscles/index.html" alt="Upper Limb Muscles">
+<area shape="rect" coords="9, 178, 330, 314" href="../Upper Limb Muscles/index.html" alt="Upper Limb Muscles">
+<area shape="rect" coords="817, 583, 838, 604" href="../Head Muscles/index.html" alt="Head Muscles">
+<area shape="rect" coords="565, 509, 840, 606" href="../Head Muscles/index.html" alt="Head Muscles">
+<area shape="rect" coords="544, 309, 565, 329" href="../Systems/index.html" alt="Systems">
+<area shape="rect" coords="337, 283, 567, 331" href="../Systems/index.html" alt="Systems">
+<area shape="rect" coords="473, 388, 494, 409" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="411, 347, 496, 409" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="865, 337, 886, 358" href="../Abdominal Muscles/index.html" alt="Abdominal Muscles">
+<area shape="rect" coords="574, 261, 888, 360" href="../Abdominal Muscles/index.html" alt="Abdominal Muscles">
+<area shape="rect" coords="314, 554, 334, 575" href="../Thoracic Muscles/index.html" alt="Thoracic Muscles">
+<area shape="rect" coords="40, 464, 339, 577" href="../Thoracic Muscles/index.html" alt="Thoracic Muscles">
+<area shape="rect" coords="314, 129, 334, 150" href="../Lower Limb Muscles/index.html" alt="Lower Limb Muscles">
+<area shape="rect" coords="18, 37, 339, 152" href="../Lower Limb Muscles/index.html" alt="Lower Limb Muscles">
+<area shape="rect" coords="815, 460, 835, 481" href="../Neck Muscles/index.html" alt="Neck Muscles">
+<area shape="rect" coords="565, 385, 838, 483" href="../Neck Muscles/index.html" alt="Neck Muscles">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

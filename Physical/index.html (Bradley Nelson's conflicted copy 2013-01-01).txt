@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#rlYGh9W3UStfZNrpj0AHg" alt="Physical" border ="0">
+<map name="rlYGh9W3UStfZNrpj0AHg">
+<area shape="rect" coords="195, 258, 216, 278" href="../Allergy or Intolerance/index.html" alt="Allergy or Intolerance">
+<area shape="rect" coords="8, 136, 218, 280" href="../Allergy or Intolerance/index.html" alt="Allergy or Intolerance">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

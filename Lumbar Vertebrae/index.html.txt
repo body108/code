@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#DSIzhIw5UGl3xzvCHuxXA" alt="Lumbar Vertebrae" border ="0">
+<map name="DSIzhIw5UGl3xzvCHuxXA">
+<area shape="rect" coords="666, 428, 687, 449" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="604, 388, 689, 449" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="757, 344, 778, 364" href="../Vertebral Column/index.html" alt="Vertebral Column">
+<area shape="rect" coords="508, 80, 780, 366" href="../Vertebral Column/index.html" alt="Vertebral Column">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,14 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#nYiM0Vt1OEG7zAIPHRPTfA" alt="Recreational Drugs" border ="0">
+<map name="nYiM0Vt1OEG7zAIPHRPTfA">
+<area shape="rect" coords="522, 336, 542, 357" href="../Chemicals/index.html" alt="Chemicals">
+<area shape="rect" coords="244, 156, 544, 358" href="../Chemicals/index.html" alt="Chemicals">
+<area shape="rect" coords="949, 196, 969, 217" href="../Entities/index.html" alt="Entities">
+<area shape="rect" coords="679, 183, 972, 219" href="../Entities/index.html" alt="Entities">
+<area shape="rect" coords="411, 417, 432, 438" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="349, 377, 434, 438" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

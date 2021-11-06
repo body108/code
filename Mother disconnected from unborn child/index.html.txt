@@ -1,0 +1,18 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#MZ5fM47YaEugNJuV69FZfw" alt="Mother disconnected from unborn child" border ="0">
+<map name="MZ5fM47YaEugNJuV69FZfw">
+<area shape="rect" coords="509, 540, 530, 561" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="447, 500, 532, 561" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="319, 539, 340, 560" href="../Mother's Brain/index.html" alt="Mother's Brain">
+<area shape="rect" coords="8, 403, 345, 562" href="../Mother's Brain/index.html" alt="Mother's Brain">
+<area shape="rect" coords="955, 626, 975, 646" href="../Mother's Body/index.html" alt="Mother's Body">
+<area shape="rect" coords="641, 403, 978, 648" href="../Mother's Body/index.html" alt="Mother's Body">
+<area shape="rect" coords="954, 230, 975, 251" href="../Mother's Spirit/index.html" alt="Mother's Spirit">
+<area shape="rect" coords="641, 8, 977, 253" href="../Mother's Spirit/index.html" alt="Mother's Spirit">
+<area shape="rect" coords="612, 463, 633, 484" href="../Morning Sickness/index.html" alt="Morning Sickness">
+<area shape="rect" coords="351, 170, 635, 486" href="../Morning Sickness/index.html" alt="Morning Sickness">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

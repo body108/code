@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#CIxthPgJjkiT7KdLsFlXQg" alt="Sacrum" border ="0">
+<map name="CIxthPgJjkiT7KdLsFlXQg">
+<area shape="rect" coords="210, 196, 230, 216" href="../Vertebral Column/index.html" alt="Vertebral Column">
+<area shape="rect" coords="8, 11, 232, 217" href="../Vertebral Column/index.html" alt="Vertebral Column">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

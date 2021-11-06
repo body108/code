@@ -1,0 +1,8 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#UDCtBYuc0Sf5baF9nV2aw" alt="Superficial Posterior Neck Muscles" border ="0">
+<map name="UDCtBYuc0Sf5baF9nV2aw">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

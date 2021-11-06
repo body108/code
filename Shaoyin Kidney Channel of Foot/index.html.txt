@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#hoJVQPjsnkeDjxL7w26rYQ" alt="Shaoyin Kidney Channel of Foot " border ="0">
+<map name="hoJVQPjsnkeDjxL7w26rYQ">
+<area shape="rect" coords="594, 613, 614, 633" href="../The Twelve Standard Meridians/index.html" alt="The Twelve Standard Meridians">
+<area shape="rect" coords="133, 8, 615, 634" href="../The Twelve Standard Meridians/index.html" alt="The Twelve Standard Meridians">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

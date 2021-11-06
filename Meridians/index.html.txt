@@ -1,0 +1,14 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#PxuuZpV3oUqIdXfe45HlQ" alt="Meridians" border ="0">
+<map name="PxuuZpV3oUqIdXfe45HlQ">
+<area shape="rect" coords="762, 248, 781, 268" href="../The Eight Extraordinary Meridians/index.html" alt="The Eight Extraordinary Meridians">
+<area shape="rect" coords="473, 210, 783, 270" href="../The Eight Extraordinary Meridians/index.html" alt="The Eight Extraordinary Meridians">
+<area shape="rect" coords="449, 318, 469, 338" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="317, 294, 471, 340" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="288, 247, 308, 266" href="../The Twelve Standard Meridians/index.html" alt="The Twelve Standard Meridians">
+<area shape="rect" coords="8, 206, 312, 268" href="../The Twelve Standard Meridians/index.html" alt="The Twelve Standard Meridians">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

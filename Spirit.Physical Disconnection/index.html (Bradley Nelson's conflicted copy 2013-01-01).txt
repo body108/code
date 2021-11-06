@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#0CGgpx6IWkmQQj8azIvaHQ" alt="Spirit/Physical Disconnection" border ="0">
+<map name="0CGgpx6IWkmQQj8azIvaHQ">
+<area shape="rect" coords="429, 309, 450, 330" href="../Disconnections/index.html" alt="Disconnections">
+<area shape="rect" coords="273, 192, 451, 332" href="../Disconnections/index.html" alt="Disconnections">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

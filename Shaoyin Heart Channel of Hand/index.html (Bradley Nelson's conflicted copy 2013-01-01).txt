@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#WrBmdDxgzUeT76aP69c6bA" alt="Shaoyin Heart Channel of Hand " border ="0">
+<map name="WrBmdDxgzUeT76aP69c6bA">
+<area shape="rect" coords="632, 538, 653, 559" href="../Meridians/index.html" alt="Meridians">
+<area shape="rect" coords="223, 9, 655, 561" href="../Meridians/index.html" alt="Meridians">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

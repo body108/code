@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#RZG29WFAEk24H7biTOr4fQ" alt="Superficial Leg Muscles" border ="0">
+<map name="RZG29WFAEk24H7biTOr4fQ">
+<area shape="rect" coords="209, 284, 230, 305" href="../Leg Muscles/index.html" alt="Leg Muscles">
+<area shape="rect" coords="8, 237, 232, 307" href="../Leg Muscles/index.html" alt="Leg Muscles">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

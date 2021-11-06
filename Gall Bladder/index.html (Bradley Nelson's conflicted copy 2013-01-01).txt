@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#5TpaBd8mk22J3MjfIN9OQ" alt="Gall Bladder" border ="0">
+<map name="5TpaBd8mk22J3MjfIN9OQ">
+<area shape="rect" coords="560, 349, 581, 369" href="../Organs/index.html" alt="Organs">
+<area shape="rect" coords="275, 253, 583, 371" href="../Organs/index.html" alt="Organs">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

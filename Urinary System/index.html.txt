@@ -1,0 +1,16 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#U7lcwq00zECnAp4DHljVSA" alt="Urinary System" border ="0">
+<map name="U7lcwq00zECnAp4DHljVSA">
+<area shape="rect" coords="493, 301, 514, 321" href="../Systems/index.html" alt="Systems">
+<area shape="rect" coords="302, 275, 516, 323" href="../Systems/index.html" alt="Systems">
+<area shape="rect" coords="789, 443, 809, 464" href="../Kidneys/index.html" alt="Kidneys">
+<area shape="rect" coords="522, 374, 812, 466" href="../Kidneys/index.html" alt="Kidneys">
+<area shape="rect" coords="270, 329, 291, 349" href="../Bladder/index.html" alt="Bladder">
+<area shape="rect" coords="8, 193, 296, 351" href="../Bladder/index.html" alt="Bladder">
+<area shape="rect" coords="433, 382, 453, 403" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="371, 341, 455, 403" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

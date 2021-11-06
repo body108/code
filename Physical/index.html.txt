@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#rlYGh9W3UStfZNrpj0AHg" alt="Physical" border ="0">
+<map name="rlYGh9W3UStfZNrpj0AHg">
+<area shape="rect" coords="186, 225, 206, 245" href="../Allergy or Intolerance/index.html" alt="Allergy or Intolerance">
+<area shape="rect" coords="8, 101, 208, 247" href="../Allergy or Intolerance/index.html" alt="Allergy or Intolerance">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

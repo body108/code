@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#Y09bfVRCHUabL9o1V9zeEQ" alt="Post-Hypnotic Suggestions" border ="0">
+<map name="Y09bfVRCHUabL9o1V9zeEQ">
+<area shape="rect" coords="293, 366, 314, 387" href="../Offensive/index.html" alt="Offensive">
+<area shape="rect" coords="8, 115, 316, 389" href="../Offensive/index.html" alt="Offensive">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,11 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#XvLd9R3YUkOSsK2wy33KQ" alt="Environmental" border ="0">
+<map name="XvLd9R3YUkOSsK2wy33KQ">
+<area shape="rect" coords="313, 274, 334, 295" href="http://SaferSoaps.com/index.asp?DC=Bradley_Nelson" alt="http://SaferSoaps.com/index.asp?DC=Bradley_Nelson">
+<area shape="rect" coords="9, 229, 338, 297" href="http://SaferSoaps.com/index.asp?DC=Bradley_Nelson" alt="http://SaferSoaps.com/index.asp?DC=Bradley_Nelson">
+<area shape="rect" coords="528, 308, 549, 329" href="../Chemicals/index.html" alt="Chemicals">
+<area shape="rect" coords="345, 195, 551, 331" href="../Chemicals/index.html" alt="Chemicals">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

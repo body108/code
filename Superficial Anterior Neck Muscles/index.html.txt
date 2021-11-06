@@ -1,0 +1,8 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#xuXWeybVUeRMYhF1jg6w" alt="Superficial Anterior Neck Muscles" border ="0">
+<map name="xuXWeybVUeRMYhF1jg6w">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

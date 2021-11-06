@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#94mGsmo7Q0SsEr84WF9dCg" alt="Taiyang Bladder Channel of Foot" border ="0">
+<map name="94mGsmo7Q0SsEr84WF9dCg">
+<area shape="rect" coords="621, 599, 642, 620" href="../Meridians/index.html" alt="Meridians">
+<area shape="rect" coords="238, 8, 644, 622" href="../Meridians/index.html" alt="Meridians">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

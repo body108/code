@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#KxjHWZzGs0yhOIh9ZFwEwA" alt="Energy Work" border ="0">
+<map name="KxjHWZzGs0yhOIh9ZFwEwA">
+<area shape="rect" coords="338, 330, 359, 351" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="276, 290, 361, 351" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="440, 252, 461, 273" href="../Outside Needs/index.html" alt="Outside Needs">
+<area shape="rect" coords="177, 81, 463, 275" href="../Outside Needs/index.html" alt="Outside Needs">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

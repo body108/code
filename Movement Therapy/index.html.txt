@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#RnMT5Gsp0aHcz7mp1kdkw" alt="Movement Therapy" border ="0">
+<map name="RnMT5Gsp0aHcz7mp1kdkw">
+<area shape="rect" coords="406, 184, 427, 205" href="../Exercise/index.html" alt="Exercise">
+<area shape="rect" coords="143, 13, 429, 207" href="../Exercise/index.html" alt="Exercise">
+<area shape="rect" coords="304, 267, 325, 287" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="242, 226, 327, 287" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

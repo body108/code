@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#P1nFLZehwUNyAm8WNzg" alt="Sacral" border ="0">
+<map name="P1nFLZehwUNyAm8WNzg">
+<area shape="rect" coords="350, 345, 371, 365" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="288, 304, 373, 365" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="426, 265, 447, 286" href="../Chakras/index.html" alt="Chakras">
+<area shape="rect" coords="213, 78, 449, 288" href="../Chakras/index.html" alt="Chakras">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

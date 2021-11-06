@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#Wm42yjuYUCKkLFblqw9Nw" alt="Posterior Thigh Muscles" border ="0">
+<map name="Wm42yjuYUCKkLFblqw9Nw">
+<area shape="rect" coords="564, 254, 584, 275" href="../Thigh Muscles/index.html" alt="Thigh Muscles">
+<area shape="rect" coords="354, 207, 586, 277" href="../Thigh Muscles/index.html" alt="Thigh Muscles">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

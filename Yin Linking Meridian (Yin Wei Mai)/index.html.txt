@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#ZaShclxVS0OVsjj1SZxdfw" alt="Yin Linking Meridian (Yin Wei Mai)" border ="0">
+<map name="ZaShclxVS0OVsjj1SZxdfw">
+<area shape="rect" coords="291, 563, 312, 584" href="../The Eight Extraordinary Meridians/index.html" alt="The Eight Extraordinary Meridians">
+<area shape="rect" coords="9, 9, 313, 585" href="../The Eight Extraordinary Meridians/index.html" alt="The Eight Extraordinary Meridians">
+<area shape="rect" coords="180, 641, 201, 662" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="118, 600, 203, 662" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

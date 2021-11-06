@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#lN2mk5OdiExMtwBi1nRbA" alt="Nutritional Therapy" border ="0">
+<map name="lN2mk5OdiExMtwBi1nRbA">
+<area shape="rect" coords="234, 112, 255, 132" href="../Outside Needs/index.html" alt="Outside Needs">
+<area shape="rect" coords="9, 86, 257, 134" href="../Outside Needs/index.html" alt="Outside Needs">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

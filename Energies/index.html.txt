@@ -1,0 +1,24 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#v9BG9s7Ty0SdRqwy29qDBg" alt="Energies" border ="0">
+<map name="v9BG9s7Ty0SdRqwy29qDBg">
+<area shape="rect" coords="298, 95, 318, 116" href="../Post-Traumatic/index.html" alt="Post-Traumatic">
+<area shape="rect" coords="18, 8, 323, 118" href="../Post-Traumatic/index.html" alt="Post-Traumatic">
+<area shape="rect" coords="531, 255, 552, 276" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="318, 118, 554, 278" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="858, 94, 878, 115" href="../Addictive Heart Energy/index.html" alt="Addictive Heart Energy">
+<area shape="rect" coords="554, 9, 881, 117" href="../Addictive Heart Energy/index.html" alt="Addictive Heart Energy">
+<area shape="rect" coords="456, 334, 476, 355" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="393, 292, 478, 355" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="831, 364, 852, 385" href="../Emotional/index.html" alt="Emotional">
+<area shape="rect" coords="549, 277, 854, 387" href="../Emotional/index.html" alt="Emotional">
+<area shape="rect" coords="286, 230, 307, 251" href="../Offensive/index.html" alt="Offensive">
+<area shape="rect" coords="8, 143, 312, 253" href="../Offensive/index.html" alt="Offensive">
+<area shape="rect" coords="298, 365, 318, 386" href="../Mental/index.html" alt="Mental">
+<area shape="rect" coords="42, 279, 323, 388" href="../Mental/index.html" alt="Mental">
+<area shape="rect" coords="851, 229, 872, 250" href="../Allergy or Intolerance/index.html" alt="Allergy or Intolerance">
+<area shape="rect" coords="560, 143, 874, 252" href="../Allergy or Intolerance/index.html" alt="Allergy or Intolerance">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

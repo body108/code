@@ -1,0 +1,14 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#7Y2S7PjmGU6tAFGg9j1aqQ" alt="VRM4" border ="0">
+<map name="7Y2S7PjmGU6tAFGg9j1aqQ">
+<area shape="rect" coords="465, 444, 485, 464" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="402, 403, 487, 464" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="491, 360, 512, 380" href="../Parasites/index.html" alt="Parasites">
+<area shape="rect" coords="376, 236, 514, 382" href="../Parasites/index.html" alt="Parasites">
+<area shape="rect" coords="612, 458, 632, 479" href="http://www.healerslibrary.com/store/" alt="http://www.healerslibrary.com/store/">
+<area shape="rect" coords="558, 454, 635, 481" href="http://www.healerslibrary.com/store/" alt="http://www.healerslibrary.com/store/">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

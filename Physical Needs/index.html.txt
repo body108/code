@@ -1,0 +1,18 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#J5fYjE3OG0aD693HBYArHA" alt="Physical Needs" border ="0">
+<map name="J5fYjE3OG0aD693HBYArHA">
+<area shape="rect" coords="541, 189, 562, 210" href="../Detoxification/index.html" alt="Detoxification">
+<area shape="rect" coords="417, 185, 564, 212" href="../Detoxification/index.html" alt="Detoxification">
+<area shape="rect" coords="388, 184, 409, 205" href="../Outside Needs/index.html" alt="Outside Needs">
+<area shape="rect" coords="125, 13, 411, 207" href="../Outside Needs/index.html" alt="Outside Needs">
+<area shape="rect" coords="523, 12, 544, 33" href="../Body Work/index.html" alt="Body Work">
+<area shape="rect" coords="417, 8, 546, 35" href="../Body Work/index.html" alt="Body Work">
+<area shape="rect" coords="294, 279, 315, 300" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="232, 239, 317, 300" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="93, 189, 114, 210" href="../Exercise/index.html" alt="Exercise">
+<area shape="rect" coords="8, 185, 119, 212" href="../Exercise/index.html" alt="Exercise">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

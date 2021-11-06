@@ -1,0 +1,18 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#exLBCDwsUG7XhshkniGg" alt="Skin" border ="0">
+<map name="exLBCDwsUG7XhshkniGg">
+<area shape="rect" coords="197, 333, 217, 353" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="134, 292, 219, 353" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="427, 173, 448, 193" href="http://en.wikipedia.org/wiki/Dermis" alt="http://en.wikipedia.org/wiki/Dermis">
+<area shape="rect" coords="350, 169, 462, 195" href="http://en.wikipedia.org/wiki/Dermis" alt="http://en.wikipedia.org/wiki/Dermis">
+<area shape="rect" coords="319, 255, 339, 276" href="../Integumentary System/index.html" alt="Integumentary System">
+<area shape="rect" coords="9, 50, 341, 278" href="../Integumentary System/index.html" alt="Integumentary System">
+<area shape="rect" coords="461, 277, 481, 298" href="http://en.wikipedia.org/wiki/Hypodermis" alt="http://en.wikipedia.org/wiki/Hypodermis">
+<area shape="rect" coords="348, 273, 495, 300" href="http://en.wikipedia.org/wiki/Hypodermis" alt="http://en.wikipedia.org/wiki/Hypodermis">
+<area shape="rect" coords="446, 50, 466, 71" href="http://en.wikipedia.org/wiki/Epidermis_(skin)" alt="http://en.wikipedia.org/wiki/Epidermis_(skin)">
+<area shape="rect" coords="348, 46, 480, 73" href="http://en.wikipedia.org/wiki/Epidermis_(skin)" alt="http://en.wikipedia.org/wiki/Epidermis_(skin)">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

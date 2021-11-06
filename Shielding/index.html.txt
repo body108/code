@@ -1,0 +1,10 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#A11Lo1QhlU6Noog9rBizqA" alt="Shielding" border ="0">
+<map name="A11Lo1QhlU6Noog9rBizqA">
+<area shape="rect" coords="289, 315, 310, 335" href="../I Agree/index.html" alt="I Agree">
+<area shape="rect" coords="8, 59, 312, 337" href="../I Agree/index.html" alt="I Agree">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

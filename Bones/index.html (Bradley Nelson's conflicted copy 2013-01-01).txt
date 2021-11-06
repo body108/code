@@ -1,0 +1,13 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#tsUqMU4kiKh9zmIbPxMA" alt="Bones" border ="0">
+<map name="tsUqMU4kiKh9zmIbPxMA">
+<area shape="rect" coords="295, 297, 315, 317" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="201, 273, 317, 319" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="145, 407, 165, 426" href="file:///Y:/Desktop/Dropbox/Body Code Maps/Lower Body/index.html" alt="Lower Body">
+<area shape="rect" coords="24, 396, 170, 428" href="file:///Y:/Desktop/Dropbox/Body Code Maps/Lower Body/index.html" alt="Lower Body">
+<area shape="rect" coords="471, 174, 491, 194" href="file:///S:/Upper Body/index.html" alt="Upper Body">
+<area shape="rect" coords="348, 164, 493, 196" href="file:///S:/Upper Body/index.html" alt="Upper Body">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

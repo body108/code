@@ -1,0 +1,11 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#7Y2S7PjmGU6tAFGg9j1aqQ" alt="VRM4" border ="0">
+<map name="7Y2S7PjmGU6tAFGg9j1aqQ">
+<area shape="rect" coords="70, 480, 91, 501" href="http://www.DrBradleyNelson.com/store" alt="http://www.DrBradleyNelson.com/store">
+<area shape="rect" coords="8, 469, 95, 503" href="http://www.DrBradleyNelson.com/store" alt="http://www.DrBradleyNelson.com/store">
+<area shape="rect" coords="180, 441, 201, 462" href="../Parasites/index.html" alt="Parasites">
+<area shape="rect" coords="69, 326, 203, 464" href="../Parasites/index.html" alt="Parasites">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

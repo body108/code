@@ -1,0 +1,10 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#V8kfp7WfoEOyHA6CXYOeZA" alt="Spirit to Spirit Disconnection" border ="0">
+<map name="V8kfp7WfoEOyHA6CXYOeZA">
+<area shape="rect" coords="271, 389, 292, 410" href="../Disconnections/index.html" alt="Disconnections">
+<area shape="rect" coords="8, 174, 294, 412" href="../Disconnections/index.html" alt="Disconnections">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

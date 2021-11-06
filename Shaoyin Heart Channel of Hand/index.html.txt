@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#WrBmdDxgzUeT76aP69c6bA" alt="Shaoyin Heart Channel of Hand " border ="0">
+<map name="WrBmdDxgzUeT76aP69c6bA">
+<area shape="rect" coords="685, 613, 705, 633" href="../The Twelve Standard Meridians/index.html" alt="The Twelve Standard Meridians">
+<area shape="rect" coords="209, 8, 707, 634" href="../The Twelve Standard Meridians/index.html" alt="The Twelve Standard Meridians">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

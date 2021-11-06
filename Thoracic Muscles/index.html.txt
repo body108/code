@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#JEhTB4FEx6Yhw6Yt2Cw" alt="Thoracic Muscles" border ="0">
+<map name="JEhTB4FEx6Yhw6Yt2Cw">
+<area shape="rect" coords="493, 363, 514, 384" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="431, 323, 516, 384" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="563, 279, 584, 299" href="../Muscular System/index.html" alt="Muscular System">
+<area shape="rect" coords="352, 253, 586, 301" href="../Muscular System/index.html" alt="Muscular System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

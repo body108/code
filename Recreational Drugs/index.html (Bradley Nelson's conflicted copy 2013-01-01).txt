@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#nYiM0Vt1OEG7zAIPHRPTfA" alt="Recreational Drugs" border ="0">
+<map name="nYiM0Vt1OEG7zAIPHRPTfA">
+<area shape="rect" coords="458, 398, 478, 419" href="../Chemicals/index.html" alt="Chemicals">
+<area shape="rect" coords="180, 227, 480, 421" href="../Chemicals/index.html" alt="Chemicals">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#WpBDfXwa5kW6HixW93ZkNA" alt="Jueyin Pericardium Meridian of Hand " border ="0">
+<map name="WpBDfXwa5kW6HixW93ZkNA">
+<area shape="rect" coords="272, 640, 293, 661" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="210, 600, 295, 661" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="471, 551, 492, 572" href="../The Twelve Standard Meridians/index.html" alt="The Twelve Standard Meridians">
+<area shape="rect" coords="8, 8, 494, 574" href="../The Twelve Standard Meridians/index.html" alt="The Twelve Standard Meridians">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

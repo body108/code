@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#d7bB9jycLkqrXYU80EWoyg" alt="Entities" border ="0">
+<map name="d7bB9jycLkqrXYU80EWoyg">
+<area shape="rect" coords="159, 566, 179, 587" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="96, 525, 181, 587" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="221, 488, 242, 509" href="../Offensive/index.html" alt="Offensive">
+<area shape="rect" coords="8, 351, 244, 511" href="../Offensive/index.html" alt="Offensive">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

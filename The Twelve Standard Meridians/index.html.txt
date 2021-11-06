@@ -1,0 +1,36 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#PxuuZpV3oUqIdXfe45HlQ" alt="The Twelve Standard Meridians" border ="0">
+<map name="PxuuZpV3oUqIdXfe45HlQ">
+<area shape="rect" coords="948, 166, 969, 186" href="../Jueyin Pericardium Meridian of Hand/index.html" alt="Jueyin Pericardium Meridian of Hand ">
+<area shape="rect" coords="653, 162, 972, 188" href="../Jueyin Pericardium Meridian of Hand/index.html" alt="Jueyin Pericardium Meridian of Hand ">
+<area shape="rect" coords="518, 449, 539, 469" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="456, 408, 541, 469" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="941, 218, 962, 238" href="../Shaoyang Sanjiao (Triple Warmer) Meridian of Hand/index.html" alt="Shaoyang Sanjiao (Triple Warmer) Meridian of Hand ">
+<area shape="rect" coords="653, 214, 965, 240" href="../Shaoyang Sanjiao (Triple Warmer) Meridian of Hand/index.html" alt="Shaoyang Sanjiao (Triple Warmer) Meridian of Hand ">
+<area shape="rect" coords="318, 114, 339, 134" href="../Taiyang Bladder Meridian of Foot/index.html" alt="Taiyang Bladder Meridian of Foot">
+<area shape="rect" coords="51, 110, 343, 136" href="../Taiyang Bladder Meridian of Foot/index.html" alt="Taiyang Bladder Meridian of Foot">
+<area shape="rect" coords="318, 166, 339, 186" href="../Shaoyang Gallbladder Meridian of Foot/index.html" alt="Shaoyang Gallbladder Meridian of Foot">
+<area shape="rect" coords="8, 162, 343, 188" href="../Shaoyang Gallbladder Meridian of Foot/index.html" alt="Shaoyang Gallbladder Meridian of Foot">
+<area shape="rect" coords="318, 322, 339, 342" href="../Taiyin Spleen Meridian of Foot/index.html" alt="Taiyin Spleen Meridian of Foot ">
+<area shape="rect" coords="71, 318, 343, 344" href="../Taiyin Spleen Meridian of Foot/index.html" alt="Taiyin Spleen Meridian of Foot ">
+<area shape="rect" coords="912, 114, 933, 134" href="../Shaoyin Heart Meridian of Hand/index.html" alt="Shaoyin Heart Meridian of Hand ">
+<area shape="rect" coords="653, 110, 936, 136" href="../Shaoyin Heart Meridian of Hand/index.html" alt="Shaoyin Heart Meridian of Hand ">
+<area shape="rect" coords="892, 62, 913, 82" href="../Taiyin Lung Meridian of Hand/index.html" alt="Taiyin Lung Meridian of Hand">
+<area shape="rect" coords="653, 58, 916, 84" href="../Taiyin Lung Meridian of Hand/index.html" alt="Taiyin Lung Meridian of Hand">
+<area shape="rect" coords="318, 270, 339, 290" href="../Shaoyin Kidney Meridian of Foot/index.html" alt="Shaoyin Kidney Meridian of Foot ">
+<area shape="rect" coords="57, 266, 343, 292" href="../Shaoyin Kidney Meridian of Foot/index.html" alt="Shaoyin Kidney Meridian of Foot ">
+<area shape="rect" coords="623, 371, 644, 392" href="../Acupuncture System/index.html" alt="Acupuncture System">
+<area shape="rect" coords="350, 8, 646, 394" href="../Acupuncture System/index.html" alt="Acupuncture System">
+<area shape="rect" coords="978, 270, 999, 290" href="../Taiyang Small Intestine Meridian of Hand/index.html" alt="Taiyang Small Intestine Meridian of Hand ">
+<area shape="rect" coords="653, 266, 1002, 292" href="../Taiyang Small Intestine Meridian of Hand/index.html" alt="Taiyang Small Intestine Meridian of Hand ">
+<area shape="rect" coords="996, 322, 1017, 342" href="../Yangming Large Intestine Meridian of Hand/index.html" alt="Yangming Large Intestine Meridian of Hand">
+<area shape="rect" coords="653, 318, 1020, 344" href="../Yangming Large Intestine Meridian of Hand/index.html" alt="Yangming Large Intestine Meridian of Hand">
+<area shape="rect" coords="318, 62, 339, 82" href="../Yangming Stomach Meridian of Foot/index.html" alt="Yangming Stomach Meridian of Foot ">
+<area shape="rect" coords="27, 58, 343, 84" href="../Yangming Stomach Meridian of Foot/index.html" alt="Yangming Stomach Meridian of Foot ">
+<area shape="rect" coords="318, 218, 339, 238" href="../Jueyin Liver Meridian of Foot/index.html" alt="Jueyin Liver Meridian of Foot ">
+<area shape="rect" coords="83, 214, 343, 240" href="../Jueyin Liver Meridian of Foot/index.html" alt="Jueyin Liver Meridian of Foot ">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

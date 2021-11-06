@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#ggtUdgmES4dZZHFVXvA" alt="L4" border ="0">
+<map name="ggtUdgmES4dZZHFVXvA">
+<area shape="rect" coords="210, 169, 230, 188" href="../Lumbar Vertebrae/index.html" alt="Lumbar Vertebrae">
+<area shape="rect" coords="8, 28, 232, 190" href="../Lumbar Vertebrae/index.html" alt="Lumbar Vertebrae">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

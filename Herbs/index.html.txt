@@ -1,0 +1,14 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#S3FK3UyH30Oi6pJXeBjcIA" alt="Herbs" border ="0">
+<map name="S3FK3UyH30Oi6pJXeBjcIA">
+<area shape="rect" coords="474, 206, 495, 226" href="LinkedDocuments/BC-Herbs.pdf" alt="BC-Herbs.pdf">
+<area shape="rect" coords="374, 204, 497, 228" href="LinkedDocuments/BC-Herbs.pdf" alt="BC-Herbs.pdf">
+<area shape="rect" coords="221, 288, 242, 309" href="../Foods, Herbs &amp; Nutrients/index.html" alt="Foods, Herbs &amp; Nutrients">
+<area shape="rect" coords="8, 133, 244, 311" href="../Foods, Herbs &amp; Nutrients/index.html" alt="Foods, Herbs &amp; Nutrients">
+<area shape="rect" coords="146, 369, 166, 390" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="84, 329, 168, 390" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

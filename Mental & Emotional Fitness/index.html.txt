@@ -1,0 +1,22 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#CMnTkwaC4Eysnlm8xRlTow" alt="Mental &amp; Emotional Fitness" border ="0">
+<map name="CMnTkwaC4Eysnlm8xRlTow">
+<area shape="rect" coords="525, 184, 546, 205" href="../Outside Needs/index.html" alt="Outside Needs">
+<area shape="rect" coords="212, 13, 548, 207" href="../Outside Needs/index.html" alt="Outside Needs">
+<area shape="rect" coords="729, 101, 750, 121" href="../Mental Rejuvenation/index.html" alt="Mental Rejuvenation">
+<area shape="rect" coords="555, 97, 752, 123" href="../Mental Rejuvenation/index.html" alt="Mental Rejuvenation">
+<area shape="rect" coords="396, 266, 417, 286" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="334, 225, 419, 286" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="180, 189, 201, 210" href="../Mental Repatterning/index.html" alt="Mental Repatterning">
+<area shape="rect" coords="9, 185, 205, 212" href="../Mental Repatterning/index.html" alt="Mental Repatterning">
+<area shape="rect" coords="764, 189, 785, 210" href="../Mental Fitness Therapies/index.html" alt="Mental Fitness Therapies">
+<area shape="rect" coords="555, 185, 787, 212" href="../Mental Fitness Therapies/index.html" alt="Mental Fitness Therapies">
+<area shape="rect" coords="180, 12, 201, 33" href="../Stress Management/index.html" alt="Stress Management">
+<area shape="rect" coords="10, 8, 205, 35" href="../Stress Management/index.html" alt="Stress Management">
+<area shape="rect" coords="705, 12, 726, 33" href="../Spiritual Nutrition/index.html" alt="Spiritual Nutrition">
+<area shape="rect" coords="555, 8, 728, 35" href="../Spiritual Nutrition/index.html" alt="Spiritual Nutrition">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

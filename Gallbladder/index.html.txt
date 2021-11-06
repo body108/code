@@ -1,0 +1,18 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#5TpaBd8mk22J3MjfIN9OQ" alt="Gallbladder" border ="0">
+<map name="5TpaBd8mk22J3MjfIN9OQ">
+<area shape="rect" coords="399, 428, 420, 449" href="../Digestive System/index.html" alt="Digestive System">
+<area shape="rect" coords="317, 416, 421, 450" href="../Digestive System/index.html" alt="Digestive System">
+<area shape="rect" coords="572, 337, 593, 357" href="../The Body Code 2.0/index.html" alt="The Body Code 2.0">
+<area shape="rect" coords="359, 199, 595, 359" href="../The Body Code 2.0/index.html" alt="The Body Code 2.0">
+<area shape="rect" coords="399, 389, 420, 410" href="../Organs/index.html" alt="Organs">
+<area shape="rect" coords="337, 392, 421, 412" href="../Organs/index.html" alt="Organs">
+<area shape="rect" coords="502, 431, 523, 452" href="../The Body Code 2.0/index.html" alt="The Body Code 2.0">
+<area shape="rect" coords="428, 390, 525, 452" href="../The Body Code 2.0/index.html" alt="The Body Code 2.0">
+<area shape="rect" coords="168, 526, 189, 547" href="../Detoxification/index.html" alt="Detoxification">
+<area shape="rect" coords="29, 501, 191, 549" href="../Detoxification/index.html" alt="Detoxification">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

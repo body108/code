@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#ywjwUbDtCEyVvTJYztOzSA" alt="Medical" border ="0">
+<map name="ywjwUbDtCEyVvTJYztOzSA">
+<area shape="rect" coords="121, 291, 142, 312" href="../Chemicals/index.html" alt="Chemicals">
+<area shape="rect" coords="8, 266, 144, 314" href="../Chemicals/index.html" alt="Chemicals">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,8 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#xjSwbPXNJkiIhG6CHWPneA" alt="Emotionscode Flussdiagramm" border ="0">
+<map name="xjSwbPXNJkiIhG6CHWPneA">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

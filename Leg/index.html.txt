@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#Fv3YitbQZkCiqjqs467Qg" alt="Leg" border ="0">
+<map name="Fv3YitbQZkCiqjqs467Qg">
+<area shape="rect" coords="412, 480, 432, 501" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="350, 439, 434, 501" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="422, 385, 443, 405" href="../Lower Limbs/index.html" alt="Lower Limbs">
+<area shape="rect" coords="339, 359, 445, 407" href="../Lower Limbs/index.html" alt="Lower Limbs">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

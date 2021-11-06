@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#Bhr95Hptg0O8qUuLuBQAjA" alt="Heart Circulation" border ="0">
+<map name="Bhr95Hptg0O8qUuLuBQAjA">
+<area shape="rect" coords="479, 405, 500, 425" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="417, 364, 502, 425" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="560, 325, 581, 345" href="../Thoracic Circulation/index.html" alt="Thoracic Circulation">
+<area shape="rect" coords="347, 123, 583, 347" href="../Thoracic Circulation/index.html" alt="Thoracic Circulation">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,15 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#Fm70Q3ozmkdLf5gxzrNmA" alt="Offensive" border ="0">
+<map name="Fm70Q3ozmkdLf5gxzrNmA">
+<area shape="rect" coords="130, 237, 150, 257" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="8, 213, 152, 259" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="329, 439, 349, 459" href="file:///S:/Saboteur/index.html" alt="Saboteur">
+<area shape="rect" coords="169, 336, 351, 461" href="file:///S:/Saboteur/index.html" alt="Saboteur">
+<area shape="rect" coords="338, 114, 358, 134" href="file:///S:/Cording/index.html" alt="Cording">
+<area shape="rect" coords="169, 8, 360, 136" href="file:///S:/Cording/index.html" alt="Cording">
+<area shape="rect" coords="333, 289, 353, 309" href="file:///S:/Post-Hypnotic Suggestions/index.html" alt="Post-Hypnotic Suggestions">
+<area shape="rect" coords="158, 165, 355, 310" href="file:///S:/Post-Hypnotic Suggestions/index.html" alt="Post-Hypnotic Suggestions">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

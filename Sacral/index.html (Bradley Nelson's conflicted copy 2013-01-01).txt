@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#P1nFLZehwUNyAm8WNzg" alt="Sacral" border ="0">
+<map name="P1nFLZehwUNyAm8WNzg">
+<area shape="rect" coords="530, 283, 551, 304" href="../Chakras/index.html" alt="Chakras">
+<area shape="rect" coords="248, 132, 552, 306" href="../Chakras/index.html" alt="Chakras">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

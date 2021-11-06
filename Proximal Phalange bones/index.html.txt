@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#BkKN9X0Cl0SUl2J6Q008w" alt="Proximal Phalange bones" border ="0">
+<map name="BkKN9X0Cl0SUl2J6Q008w">
+<area shape="rect" coords="461, 328, 482, 349" href="../Hand Bones/index.html" alt="Hand Bones">
+<area shape="rect" coords="210, 164, 484, 350" href="../Hand Bones/index.html" alt="Hand Bones">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#jqQ3WvOV0UOGVWWOgOjwg" alt="Lower Limb Muscles" border ="0">
+<map name="jqQ3WvOV0UOGVWWOgOjwg">
+<area shape="rect" coords="451, 353, 471, 373" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="389, 312, 473, 373" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="534, 271, 555, 291" href="../Muscular System/index.html" alt="Muscular System">
+<area shape="rect" coords="295, 245, 557, 293" href="../Muscular System/index.html" alt="Muscular System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

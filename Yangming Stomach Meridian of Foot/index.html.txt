@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#ZaShclxVS0OVsjj1SZxdfw" alt="Yangming Stomach Meridian of Foot " border ="0">
+<map name="ZaShclxVS0OVsjj1SZxdfw">
+<area shape="rect" coords="277, 625, 297, 646" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="214, 584, 299, 646" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="471, 535, 492, 556" href="../The Twelve Standard Meridians/index.html" alt="The Twelve Standard Meridians">
+<area shape="rect" coords="8, 9, 494, 557" href="../The Twelve Standard Meridians/index.html" alt="The Twelve Standard Meridians">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

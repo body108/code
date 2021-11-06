@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#XXGSLw4kkUO3G0aR0rRSg" alt="Jueyin Liver Channel of Foot " border ="0">
+<map name="XXGSLw4kkUO3G0aR0rRSg">
+<area shape="rect" coords="639, 616, 660, 637" href="../Meridians/index.html" alt="Meridians">
+<area shape="rect" coords="236, 9, 662, 639" href="../Meridians/index.html" alt="Meridians">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

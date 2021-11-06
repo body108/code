@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#ZaShclxVS0OVsjj1SZxdfw" alt="Yang Linking Meridian (Yang Wei Mai)" border ="0">
+<map name="ZaShclxVS0OVsjj1SZxdfw">
+<area shape="rect" coords="302, 559, 323, 580" href="../The Eight Extraordinary Meridians/index.html" alt="The Eight Extraordinary Meridians">
+<area shape="rect" coords="9, 8, 325, 582" href="../The Eight Extraordinary Meridians/index.html" alt="The Eight Extraordinary Meridians">
+<area shape="rect" coords="187, 642, 208, 662" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="125, 601, 210, 662" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

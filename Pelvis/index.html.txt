@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#oWSBHIsNyEKSgWXwKLmneg" alt="Pelvis" border ="0">
+<map name="oWSBHIsNyEKSgWXwKLmneg">
+<area shape="rect" coords="389, 359, 410, 380" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="327, 319, 412, 380" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="411, 272, 432, 292" href="../Lower Limbs/index.html" alt="Lower Limbs">
+<area shape="rect" coords="306, 246, 434, 294" href="../Lower Limbs/index.html" alt="Lower Limbs">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

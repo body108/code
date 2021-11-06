@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#y9vqpVT9pUObKeBLINKMA" alt="T5" border ="0">
+<map name="y9vqpVT9pUObKeBLINKMA">
+<area shape="rect" coords="161, 157, 180, 177" href="../Thoracic Vertebrae/index.html" alt="Thoracic Vertebrae">
+<area shape="rect" coords="8, 49, 182, 179" href="../Thoracic Vertebrae/index.html" alt="Thoracic Vertebrae">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

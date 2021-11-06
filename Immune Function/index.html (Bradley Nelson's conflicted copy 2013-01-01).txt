@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#xs65B9PlJEmTEUdx4C41kw" alt="Immune Function" border ="0">
+<map name="xs65B9PlJEmTEUdx4C41kw">
+<area shape="rect" coords="207, 153, 228, 174" href="../I Agree/index.html" alt="I Agree">
+<area shape="rect" coords="9, 127, 229, 175" href="../I Agree/index.html" alt="I Agree">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

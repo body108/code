@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#wwFFBBcmU2HACqhbHhbcg" alt="Weight Lifting" border ="0">
+<map name="wwFFBBcmU2HACqhbHhbcg">
+<area shape="rect" coords="436, 167, 457, 188" href="../Exercise/index.html" alt="Exercise">
+<area shape="rect" coords="223, 30, 459, 190" href="../Exercise/index.html" alt="Exercise">
+<area shape="rect" coords="354, 255, 375, 275" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="292, 214, 377, 275" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

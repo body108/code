@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#21zCrtt8uUOIZN6SdkKA" alt="Psychic Trauma" border ="0">
+<map name="21zCrtt8uUOIZN6SdkKA">
+<area shape="rect" coords="487, 267, 508, 288" href="../Post-Traumatic/index.html" alt="Post-Traumatic">
+<area shape="rect" coords="294, 156, 510, 290" href="../Post-Traumatic/index.html" alt="Post-Traumatic">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

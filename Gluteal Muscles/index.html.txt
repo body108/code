@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#cErVAVb90SpaHxmIBnUnA" alt="Gluteal Muscles" border ="0">
+<map name="cErVAVb90SpaHxmIBnUnA">
+<area shape="rect" coords="204, 274, 225, 294" href="../Hip Muscles/index.html" alt="Hip Muscles">
+<area shape="rect" coords="9, 248, 227, 296" href="../Hip Muscles/index.html" alt="Hip Muscles">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#rlYGh9W3UStfZNrpj0AHg" alt="Physical Allergy" border ="0">
+<map name="rlYGh9W3UStfZNrpj0AHg">
+<area shape="rect" coords="221, 195, 242, 216" href="../Allergy or Intolerance/index.html" alt="Allergy or Intolerance">
+<area shape="rect" coords="8, 46, 244, 218" href="../Allergy or Intolerance/index.html" alt="Allergy or Intolerance">
+<area shape="rect" coords="145, 277, 165, 297" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="82, 236, 167, 297" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,26 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#h2Os9DvuEeeJgwNe96mqw" alt="Mental" border ="0">
+<map name="h2Os9DvuEeeJgwNe96mqw">
+<area shape="rect" coords="296, 352, 316, 373" href="../Need for T3 Session/index.html" alt="Need for T3 Session">
+<area shape="rect" coords="8, 242, 321, 375" href="../Need for T3 Session/index.html" alt="Need for T3 Session">
+<area shape="rect" coords="809, 427, 830, 448" href="../Images/index.html" alt="Images">
+<area shape="rect" coords="547, 297, 832, 450" href="../Images/index.html" alt="Images">
+<area shape="rect" coords="826, 249, 847, 270" href="../Despair Anchor/index.html" alt="Despair Anchor">
+<area shape="rect" coords="547, 143, 849, 272" href="../Despair Anchor/index.html" alt="Despair Anchor">
+<area shape="rect" coords="477, 298, 498, 318" href="../Energies/index.html" alt="Energies">
+<area shape="rect" coords="368, 272, 500, 320" href="../Energies/index.html" alt="Energies">
+<area shape="rect" coords="296, 194, 316, 215" href="../Will to Die/index.html" alt="Will to Die">
+<area shape="rect" coords="16, 70, 321, 217" href="../Will to Die/index.html" alt="Will to Die">
+<area shape="rect" coords="854, 561, 875, 582" href="../Memory Field/index.html" alt="Memory Field">
+<area shape="rect" coords="547, 476, 877, 584" href="../Memory Field/index.html" alt="Memory Field">
+<area shape="rect" coords="844, 94, 865, 115" href="../Broadcast Message (Courtesy T3 Therapy)/index.html" alt="Broadcast Message (Courtesy T3 Therapy)">
+<area shape="rect" coords="547, 8, 867, 117" href="../Broadcast Message (Courtesy T3 Therapy)/index.html" alt="Broadcast Message (Courtesy T3 Therapy)">
+<area shape="rect" coords="456, 380, 476, 401" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="394, 339, 478, 401" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="296, 499, 316, 520" href="../No Will to Live/index.html" alt="No Will to Live">
+<area shape="rect" coords="23, 400, 321, 522" href="../No Will to Live/index.html" alt="No Will to Live">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

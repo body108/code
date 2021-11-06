@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#jn7YW3IsgU2jq40sfUOg2w" alt="Mercury Amalgam " border ="0">
+<map name="jn7YW3IsgU2jq40sfUOg2w">
+<area shape="rect" coords="706, 283, 727, 303" href="../Detoxification/index.html" alt="Detoxification">
+<area shape="rect" coords="362, 281, 729, 305" href="../Detoxification/index.html" alt="Detoxification">
+<area shape="rect" coords="221, 249, 242, 270" href="../Dental/index.html" alt="Dental">
+<area shape="rect" coords="8, 94, 244, 272" href="../Dental/index.html" alt="Dental">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

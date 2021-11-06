@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#Yd5gFbmk0GwFLZKo6FUEA" alt="Fascia" border ="0">
+<map name="Yd5gFbmk0GwFLZKo6FUEA">
+<area shape="rect" coords="173, 219, 194, 240" href="../Connective Tissue/index.html" alt="Connective Tissue">
+<area shape="rect" coords="8, 50, 196, 242" href="../Connective Tissue/index.html" alt="Connective Tissue">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

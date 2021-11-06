@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#4VoPNndPEyoj4STxuUBIg" alt="Trapped Emotion" border ="0">
+<map name="4VoPNndPEyoj4STxuUBIg">
+<area shape="rect" coords="464, 353, 485, 374" href="../Emotional/index.html" alt="Emotional">
+<area shape="rect" coords="324, 308, 486, 376" href="../Emotional/index.html" alt="Emotional">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

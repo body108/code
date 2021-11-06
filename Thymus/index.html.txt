@@ -1,0 +1,16 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#jqquT5DB06fcFcNPc14jA" alt="Thymus" border ="0">
+<map name="jqquT5DB06fcFcNPc14jA">
+<area shape="rect" coords="530, 360, 551, 381" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="456, 318, 553, 381" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="426, 318, 447, 338" href="../Glands/index.html" alt="Glands">
+<area shape="rect" coords="367, 320, 449, 340" href="../Glands/index.html" alt="Glands">
+<area shape="rect" coords="426, 356, 447, 377" href="../Immune System/index.html" alt="Immune System">
+<area shape="rect" coords="352, 345, 449, 379" href="../Immune System/index.html" alt="Immune System">
+<area shape="rect" coords="579, 281, 600, 302" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="366, 144, 602, 304" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

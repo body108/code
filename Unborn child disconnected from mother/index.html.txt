@@ -1,0 +1,16 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#HevS8QkxE2GJwVo1BtkJg" alt="Unborn child disconnected from mother" border ="0">
+<map name="HevS8QkxE2GJwVo1BtkJg">
+<area shape="rect" coords="871, 96, 892, 117" href="../Spiritual unborn child/index.html" alt="Spiritual unborn child">
+<area shape="rect" coords="590, 8, 894, 119" href="../Spiritual unborn child/index.html" alt="Spiritual unborn child">
+<area shape="rect" coords="288, 355, 309, 376" href="../Physical Unborn Child/index.html" alt="Physical Unborn Child">
+<area shape="rect" coords="8, 269, 314, 378" href="../Physical Unborn Child/index.html" alt="Physical Unborn Child">
+<area shape="rect" coords="474, 350, 494, 370" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="412, 309, 496, 370" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="561, 272, 582, 293" href="../Morning Sickness/index.html" alt="Morning Sickness">
+<area shape="rect" coords="320, 93, 584, 295" href="../Morning Sickness/index.html" alt="Morning Sickness">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

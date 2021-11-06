@@ -1,0 +1,16 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#5TpaBd8mk22J3MjfIN9OQ" alt="Gallbladder" border ="0">
+<map name="5TpaBd8mk22J3MjfIN9OQ">
+<area shape="rect" coords="399, 414, 420, 435" href="../Digestive System/index.html" alt="Digestive System">
+<area shape="rect" coords="317, 402, 421, 436" href="../Digestive System/index.html" alt="Digestive System">
+<area shape="rect" coords="572, 323, 593, 343" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="359, 185, 595, 345" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="399, 375, 420, 396" href="../Organs/index.html" alt="Organs">
+<area shape="rect" coords="337, 378, 421, 398" href="../Organs/index.html" alt="Organs">
+<area shape="rect" coords="502, 417, 523, 438" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="428, 376, 525, 438" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

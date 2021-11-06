@@ -1,0 +1,15 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#YxYzQ83Go06D3UIaMCqDKA" alt="Emotional" border ="0">
+<map name="YxYzQ83Go06D3UIaMCqDKA">
+<area shape="rect" coords="134, 246, 154, 266" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="8, 222, 156, 268" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="355, 293, 375, 313" href="file:///S:/Heart-Wall/index.html" alt="Heart-Wall">
+<area shape="rect" coords="189, 162, 377, 315" href="file:///S:/Heart-Wall/index.html" alt="Heart-Wall">
+<area shape="rect" coords="373, 116, 393, 136" href="file:///S:/Trapped Emotion/index.html" alt="Trapped Emotion">
+<area shape="rect" coords="189, 8, 395, 137" href="file:///S:/Trapped Emotion/index.html" alt="Trapped Emotion">
+<area shape="rect" coords="356, 466, 376, 486" href="file:///S:/Emotional Resonance/index.html" alt="Emotional Resonance">
+<area shape="rect" coords="189, 345, 378, 488" href="file:///S:/Emotional Resonance/index.html" alt="Emotional Resonance">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

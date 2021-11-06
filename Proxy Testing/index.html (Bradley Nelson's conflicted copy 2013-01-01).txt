@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#3FKW6GvJUu2P8s3qFelg" alt="Proxy Testing" border ="0">
+<map name="3FKW6GvJUu2P8s3qFelg">
+<area shape="rect" coords="630, 164, 651, 185" href="../I Agree/index.html" alt="I Agree">
+<area shape="rect" coords="465, 138, 653, 186" href="../I Agree/index.html" alt="I Agree">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,22 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#9pizuA6GUKjwb4WSOxSg" alt="Vertebral Column" border ="0">
+<map name="9pizuA6GUKjwb4WSOxSg">
+<area shape="rect" coords="364, 228, 384, 249" href="../Sacrum and Coccyx/index.html" alt="Sacrum and Coccyx">
+<area shape="rect" coords="8, 74, 389, 251" href="../Sacrum and Coccyx/index.html" alt="Sacrum and Coccyx">
+<area shape="rect" coords="986, 621, 1007, 641" href="../Thoracic Vertebrae 7-12/index.html" alt="Thoracic Vertebrae 7-12">
+<area shape="rect" coords="603, 455, 1009, 643" href="../Thoracic Vertebrae 7-12/index.html" alt="Thoracic Vertebrae 7-12">
+<area shape="rect" coords="986, 407, 1007, 428" href="../Thoracic Vertebrae 1-6/index.html" alt="Thoracic Vertebrae 1-6">
+<area shape="rect" coords="608, 233, 1009, 430" href="../Thoracic Vertebrae 1-6/index.html" alt="Thoracic Vertebrae 1-6">
+<area shape="rect" coords="521, 576, 542, 597" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="459, 536, 544, 597" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="364, 555, 384, 576" href="../Lumbar Vertebrae/index.html" alt="Lumbar Vertebrae">
+<area shape="rect" coords="84, 401, 389, 578" href="../Lumbar Vertebrae/index.html" alt="Lumbar Vertebrae">
+<area shape="rect" coords="573, 493, 594, 514" href="../Axial Skeleton/index.html" alt="Axial Skeleton">
+<area shape="rect" coords="408, 136, 596, 516" href="../Axial Skeleton/index.html" alt="Axial Skeleton">
+<area shape="rect" coords="898, 185, 919, 206" href="../Cervical Vertebrae/index.html" alt="Cervical Vertebrae">
+<area shape="rect" coords="615, 9, 921, 208" href="../Cervical Vertebrae/index.html" alt="Cervical Vertebrae">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

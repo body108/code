@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#SdATrmIrG0G4IZVcNF1dA" alt="Stress Reduction" border ="0">
+<map name="SdATrmIrG0G4IZVcNF1dA">
+<area shape="rect" coords="216, 112, 237, 132" href="../Outside Needs/index.html" alt="Outside Needs">
+<area shape="rect" coords="9, 86, 239, 134" href="../Outside Needs/index.html" alt="Outside Needs">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

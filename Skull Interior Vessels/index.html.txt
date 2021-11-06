@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#0VpcyOxtBUeOjiKEXRMz1A" alt="Skull Interior Vessels" border ="0">
+<map name="0VpcyOxtBUeOjiKEXRMz1A">
+<area shape="rect" coords="469, 394, 490, 414" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="407, 353, 492, 414" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="544, 313, 565, 334" href="../Head &amp; Neck Vessels/index.html" alt="Head &amp; Neck Vessels">
+<area shape="rect" coords="331, 109, 567, 335" href="../Head &amp; Neck Vessels/index.html" alt="Head &amp; Neck Vessels">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

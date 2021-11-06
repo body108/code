@@ -1,0 +1,22 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#5gY1yvqAW0qDRPU9EuRag" alt="Misalignments" border ="0">
+<map name="5gY1yvqAW0qDRPU9EuRag">
+<area shape="rect" coords="270, 256, 291, 276" href="../Glands/index.html" alt="Glands">
+<area shape="rect" coords="13, 165, 296, 278" href="../Glands/index.html" alt="Glands">
+<area shape="rect" coords="805, 515, 825, 536" href="../Skeleton/index.html" alt="Skeleton">
+<area shape="rect" coords="533, 429, 828, 538" href="../Skeleton/index.html" alt="Skeleton">
+<area shape="rect" coords="515, 350, 536, 371" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="302, 213, 538, 373" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="282, 117, 302, 137" href="../Connective Tissue/index.html" alt="Connective Tissue">
+<area shape="rect" coords="8, 8, 307, 139" href="../Connective Tissue/index.html" alt="Connective Tissue">
+<area shape="rect" coords="282, 555, 302, 576" href="../Systems/index.html" alt="Systems">
+<area shape="rect" coords="13, 469, 307, 578" href="../Systems/index.html" alt="Systems">
+<area shape="rect" coords="444, 429, 465, 450" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="381, 387, 467, 450" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="270, 421, 291, 442" href="../Organs/index.html" alt="Organs">
+<area shape="rect" coords="11, 304, 296, 444" href="../Organs/index.html" alt="Organs">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,16 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#t5MTZVxzUqdBMsKCmPYgQ" alt="Liver" border ="0">
+<map name="t5MTZVxzUqdBMsKCmPYgQ">
+<area shape="rect" coords="574, 400, 595, 421" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="500, 359, 597, 421" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="471, 358, 492, 379" href="../Organs/index.html" alt="Organs">
+<area shape="rect" coords="409, 360, 493, 381" href="../Organs/index.html" alt="Organs">
+<area shape="rect" coords="607, 318, 627, 339" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="395, 149, 629, 341" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="471, 397, 492, 417" href="../Digestive System/index.html" alt="Digestive System">
+<area shape="rect" coords="389, 385, 493, 419" href="../Digestive System/index.html" alt="Digestive System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

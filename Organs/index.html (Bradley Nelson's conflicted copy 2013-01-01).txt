@@ -1,0 +1,33 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#3dXyWLuNbUCwwZ3RdCTZQ" alt="Organs" border ="0">
+<map name="3dXyWLuNbUCwwZ3RdCTZQ">
+<area shape="rect" coords="713, 635, 734, 655" href="../Liver/index.html" alt="Liver">
+<area shape="rect" coords="508, 559, 736, 657" href="../Liver/index.html" alt="Liver">
+<area shape="rect" coords="746, 426, 767, 447" href="../Stomach/index.html" alt="Stomach">
+<area shape="rect" coords="510, 356, 769, 449" href="../Stomach/index.html" alt="Stomach">
+<area shape="rect" coords="705, 327, 725, 348" href="../Spleen/index.html" alt="Spleen">
+<area shape="rect" coords="510, 232, 728, 350" href="../Spleen/index.html" alt="Spleen">
+<area shape="rect" coords="297, 320, 317, 340" href="../Ileocecal Valve/index.html" alt="Ileocecal Valve">
+<area shape="rect" coords="8, 233, 322, 342" href="../Ileocecal Valve/index.html" alt="Ileocecal Valve">
+<area shape="rect" coords="297, 631, 317, 652" href="../Kidneys/index.html" alt="Kidneys">
+<area shape="rect" coords="68, 554, 322, 653" href="../Kidneys/index.html" alt="Kidneys">
+<area shape="rect" coords="297, 93, 317, 113" href="../Bladder/index.html" alt="Bladder">
+<area shape="rect" coords="69, 13, 322, 115" href="../Bladder/index.html" alt="Bladder">
+<area shape="rect" coords="459, 334, 480, 355" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="351, 309, 481, 357" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="775, 530, 796, 551" href="../Gall Bladder/index.html" alt="Gall Bladder">
+<area shape="rect" coords="510, 455, 798, 553" href="../Gall Bladder/index.html" alt="Gall Bladder">
+<area shape="rect" coords="697, 92, 718, 113" href="../Heart/index.html" alt="Heart">
+<area shape="rect" coords="510, 9, 720, 115" href="../Heart/index.html" alt="Heart">
+<area shape="rect" coords="718, 203, 739, 224" href="../Lungs/index.html" alt="Lungs">
+<area shape="rect" coords="510, 121, 741, 225" href="../Lungs/index.html" alt="Lungs">
+<area shape="rect" coords="297, 419, 317, 439" href="../Small Intestine/index.html" alt="Small Intestine">
+<area shape="rect" coords="57, 349, 322, 441" href="../Small Intestine/index.html" alt="Small Intestine">
+<area shape="rect" coords="297, 204, 317, 224" href="../Uterus/index.html" alt="Uterus">
+<area shape="rect" coords="78, 122, 322, 226" href="../Uterus/index.html" alt="Uterus">
+<area shape="rect" coords="297, 525, 317, 546" href="../Colon/index.html" alt="Colon">
+<area shape="rect" coords="101, 448, 322, 548" href="../Colon/index.html" alt="Colon">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

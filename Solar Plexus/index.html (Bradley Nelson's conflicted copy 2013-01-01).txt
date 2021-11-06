@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#qV0eMBfHVUyHQf48EB9mHg" alt="Solar Plexus" border ="0">
+<map name="qV0eMBfHVUyHQf48EB9mHg">
+<area shape="rect" coords="609, 280, 630, 301" href="../Chakras/index.html" alt="Chakras">
+<area shape="rect" coords="276, 133, 632, 303" href="../Chakras/index.html" alt="Chakras">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

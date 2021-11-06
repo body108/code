@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#pC3XcapfT0i8NtSlvc9PHw" alt="Ileocecal Valve" border ="0">
+<map name="pC3XcapfT0i8NtSlvc9PHw">
+<area shape="rect" coords="509, 382, 530, 402" href="../Organs/index.html" alt="Organs">
+<area shape="rect" coords="322, 252, 532, 404" href="../Organs/index.html" alt="Organs">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

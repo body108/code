@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#LO2lC1gt9ECORNKp9Z9krA" alt="Spiritual unborn child" border ="0">
+<map name="LO2lC1gt9ECORNKp9Z9krA">
+<area shape="rect" coords="409, 496, 430, 517" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="347, 456, 432, 517" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="507, 419, 528, 440" href="../Unborn child disconnected from mother/index.html" alt="Unborn child disconnected from mother">
+<area shape="rect" coords="246, 280, 530, 442" href="../Unborn child disconnected from mother/index.html" alt="Unborn child disconnected from mother">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

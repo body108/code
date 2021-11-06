@@ -1,0 +1,18 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#Iz7VvELVw0eicUIygv0HOQ" alt="Kidneys" border ="0">
+<map name="Iz7VvELVw0eicUIygv0HOQ">
+<area shape="rect" coords="433, 448, 454, 468" href="../Organs/index.html" alt="Organs">
+<area shape="rect" coords="371, 450, 455, 470" href="../Organs/index.html" alt="Organs">
+<area shape="rect" coords="588, 413, 609, 434" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="375, 276, 611, 436" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="433, 486, 454, 507" href="../Urinary System/index.html" alt="Urinary System">
+<area shape="rect" coords="363, 475, 455, 509" href="../Urinary System/index.html" alt="Urinary System">
+<area shape="rect" coords="536, 509, 557, 530" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="462, 468, 559, 530" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="433, 525, 454, 546" href="../Endocrine System/index.html" alt="Endocrine System">
+<area shape="rect" coords="346, 513, 455, 547" href="../Endocrine System/index.html" alt="Endocrine System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

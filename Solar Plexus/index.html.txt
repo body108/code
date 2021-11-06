@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#qV0eMBfHVUyHQf48EB9mHg" alt="Solar Plexus" border ="0">
+<map name="qV0eMBfHVUyHQf48EB9mHg">
+<area shape="rect" coords="370, 343, 391, 364" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="308, 303, 393, 364" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="446, 264, 467, 285" href="../Chakras/index.html" alt="Chakras">
+<area shape="rect" coords="233, 77, 469, 287" href="../Chakras/index.html" alt="Chakras">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#H2uFLLAkmQU7hu9Tog" alt="Inflammation" border ="0">
+<map name="H2uFLLAkmQU7hu9Tog">
+<area shape="rect" coords="185, 191, 206, 212" href="../Post-Traumatic/index.html" alt="Post-Traumatic">
+<area shape="rect" coords="8, 82, 208, 214" href="../Post-Traumatic/index.html" alt="Post-Traumatic">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

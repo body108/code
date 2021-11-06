@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#H2uFLLAkmQU7hu9Tog" alt="Inflammation" border ="0">
+<map name="H2uFLLAkmQU7hu9Tog">
+<area shape="rect" coords="221, 208, 242, 229" href="../Post-Traumatic/index.html" alt="Post-Traumatic">
+<area shape="rect" coords="8, 57, 244, 231" href="../Post-Traumatic/index.html" alt="Post-Traumatic">
+<area shape="rect" coords="148, 291, 168, 312" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="85, 251, 170, 312" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

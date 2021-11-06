@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#YJdXgiKjE64D8eiCRmtQ" alt="Metcarpal bones" border ="0">
+<map name="YJdXgiKjE64D8eiCRmtQ">
+<area shape="rect" coords="423, 325, 444, 346" href="../Hand Bones/index.html" alt="Hand Bones">
+<area shape="rect" coords="210, 149, 446, 347" href="../Hand Bones/index.html" alt="Hand Bones">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

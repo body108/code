@@ -1,0 +1,16 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#HZYXNNj3EyZs1IpBJIhhQ" alt="Peripheral Nervous System" border ="0">
+<map name="HZYXNNj3EyZs1IpBJIhhQ">
+<area shape="rect" coords="449, 332, 470, 352" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="387, 291, 472, 352" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="526, 254, 547, 275" href="../Nervous System/index.html" alt="Nervous System">
+<area shape="rect" coords="313, 85, 549, 277" href="../Nervous System/index.html" alt="Nervous System">
+<area shape="rect" coords="847, 83, 868, 104" href="../Autonomic Nervous System/index.html" alt="Autonomic Nervous System">
+<area shape="rect" coords="555, 8, 870, 106" href="../Autonomic Nervous System/index.html" alt="Autonomic Nervous System">
+<area shape="rect" coords="281, 343, 302, 364" href="../Somatic Nervous System/index.html" alt="Somatic Nervous System">
+<area shape="rect" coords="9, 256, 307, 366" href="../Somatic Nervous System/index.html" alt="Somatic Nervous System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

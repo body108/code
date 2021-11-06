@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#ZaShclxVS0OVsjj1SZxdfw" alt="Girdle Vessel" border ="0">
+<map name="ZaShclxVS0OVsjj1SZxdfw">
+<area shape="rect" coords="290, 613, 310, 633" href="../The Eight Extraordinary Meridians/index.html" alt="The Eight Extraordinary Meridians">
+<area shape="rect" coords="8, 8, 312, 634" href="../The Eight Extraordinary Meridians/index.html" alt="The Eight Extraordinary Meridians">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

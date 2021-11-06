@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#NIUfFBuRdEafIN0dfI755w" alt="No Will to Live" border ="0">
+<map name="NIUfFBuRdEafIN0dfI755w">
+<area shape="rect" coords="223, 232, 244, 253" href="../Mental/index.html" alt="Mental">
+<area shape="rect" coords="9, 82, 245, 254" href="../Mental/index.html" alt="Mental">
+<area shape="rect" coords="151, 315, 172, 335" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="89, 274, 173, 335" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

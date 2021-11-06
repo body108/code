@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#Lqvh7u6BYUugliZJIDy1VA" alt="Martial Arts" border ="0">
+<map name="Lqvh7u6BYUugliZJIDy1VA">
+<area shape="rect" coords="277, 247, 298, 267" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="215, 206, 300, 267" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="352, 168, 373, 188" href="../Exercise/index.html" alt="Exercise">
+<area shape="rect" coords="139, 30, 375, 190" href="../Exercise/index.html" alt="Exercise">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,16 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#F5LAqEF4kyyzxCsAcZ1NA" alt="Skeletal System" border ="0">
+<map name="F5LAqEF4kyyzxCsAcZ1NA">
+<area shape="rect" coords="411, 307, 432, 328" href="../Systems/index.html" alt="Systems">
+<area shape="rect" coords="198, 9, 434, 329" href="../Systems/index.html" alt="Systems">
+<area shape="rect" coords="166, 71, 187, 92" href="../Connective Tissue/index.html" alt="Connective Tissue">
+<area shape="rect" coords="8, 67, 192, 94" href="../Connective Tissue/index.html" alt="Connective Tissue">
+<area shape="rect" coords="335, 384, 356, 405" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="273, 344, 358, 405" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="166, 248, 187, 269" href="../Skeleton/index.html" alt="Skeleton">
+<area shape="rect" coords="80, 244, 192, 271" href="../Skeleton/index.html" alt="Skeleton">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

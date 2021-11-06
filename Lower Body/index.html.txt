@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#NLo7JyQYyEur7Tch9R7fWg" alt="Lower Body" border ="0">
+<map name="NLo7JyQYyEur7Tch9R7fWg">
+<area shape="rect" coords="708, 270, 727, 290" href="../Bones/index.html" alt="Bones">
+<area shape="rect" coords="569, 246, 729, 292" href="../Bones/index.html" alt="Bones">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

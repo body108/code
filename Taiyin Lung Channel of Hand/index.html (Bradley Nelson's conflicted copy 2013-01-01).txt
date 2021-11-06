@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#9lVXBPwo7UqHPt2PY9cwQ" alt="Taiyin Lung Channel of Hand" border ="0">
+<map name="9lVXBPwo7UqHPt2PY9cwQ">
+<area shape="rect" coords="637, 495, 658, 516" href="../Meridians/index.html" alt="Meridians">
+<area shape="rect" coords="234, 8, 660, 518" href="../Meridians/index.html" alt="Meridians">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

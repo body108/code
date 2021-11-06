@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#vyfa4MXzE2CUohvbV3C5w" alt="Spleen" border ="0">
+<map name="vyfa4MXzE2CUohvbV3C5w">
+<area shape="rect" coords="555, 366, 576, 387" href="../Organs/index.html" alt="Organs">
+<area shape="rect" coords="345, 252, 577, 388" href="../Organs/index.html" alt="Organs">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,18 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#qxFMSAZZy0qmvgGDwNazzg" alt="Leg Muscles" border ="0">
+<map name="qxFMSAZZy0qmvgGDwNazzg">
+<area shape="rect" coords="395, 189, 415, 210" href="../Anterior Leg Muscles/index.html" alt="Anterior Leg Muscles">
+<area shape="rect" coords="215, 185, 418, 212" href="../Anterior Leg Muscles/index.html" alt="Anterior Leg Muscles">
+<area shape="rect" coords="388, 12, 408, 33" href="../Lateral Leg Muscles/index.html" alt="Lateral Leg Muscles">
+<area shape="rect" coords="215, 8, 411, 35" href="../Lateral Leg Muscles/index.html" alt="Lateral Leg Muscles">
+<area shape="rect" coords="583, 85, 604, 106" href="../Deep Posterior Leg Muscles/index.html" alt="Deep Posterior Leg Muscles">
+<area shape="rect" coords="420, 84, 606, 108" href="../Deep Posterior Leg Muscles/index.html" alt="Deep Posterior Leg Muscles">
+<area shape="rect" coords="173, 112, 194, 132" href="../Lower Limb Muscles/index.html" alt="Lower Limb Muscles">
+<area shape="rect" coords="8, 86, 196, 134" href="../Lower Limb Muscles/index.html" alt="Lower Limb Muscles">
+<area shape="rect" coords="561, 114, 582, 135" href="../Superficial Leg Muscles/index.html" alt="Superficial Leg Muscles">
+<area shape="rect" coords="420, 112, 584, 136" href="../Superficial Leg Muscles/index.html" alt="Superficial Leg Muscles">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

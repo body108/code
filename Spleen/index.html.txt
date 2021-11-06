@@ -1,0 +1,18 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#vyfa4MXzE2CUohvbV3C5w" alt="Spleen" border ="0">
+<map name="vyfa4MXzE2CUohvbV3C5w">
+<area shape="rect" coords="544, 403, 565, 424" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="470, 361, 567, 424" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="441, 419, 461, 440" href="../Lymphatic System/index.html" alt="Lymphatic System">
+<area shape="rect" coords="351, 407, 463, 441" href="../Lymphatic System/index.html" alt="Lymphatic System">
+<area shape="rect" coords="587, 307, 608, 328" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="374, 170, 610, 330" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="441, 380, 461, 401" href="../Immune System/index.html" alt="Immune System">
+<area shape="rect" coords="366, 369, 463, 403" href="../Immune System/index.html" alt="Immune System">
+<area shape="rect" coords="441, 342, 461, 362" href="../Organs/index.html" alt="Organs">
+<area shape="rect" coords="379, 344, 463, 364" href="../Organs/index.html" alt="Organs">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

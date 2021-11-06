@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#OrAk0Sp4mUuFY9VjFVgKw" alt="Heart" border ="0">
+<map name="OrAk0Sp4mUuFY9VjFVgKw">
+<area shape="rect" coords="449, 342, 470, 363" href="../Organs/index.html" alt="Organs">
+<area shape="rect" coords="251, 245, 471, 365" href="../Organs/index.html" alt="Organs">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

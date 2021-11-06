@@ -1,0 +1,12 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#0hjY7aYXkV11B3SV09uA" alt="Need to move Past (Courtesy T3 Therapy)" border ="0">
+<map name="0hjY7aYXkV11B3SV09uA">
+<area shape="rect" coords="541, 228, 562, 248" href="../Mental/index.html" alt="Mental">
+<area shape="rect" coords="296, 42, 564, 250" href="../Mental/index.html" alt="Mental">
+<area shape="rect" coords="449, 320, 469, 341" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="387, 264, 471, 341" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

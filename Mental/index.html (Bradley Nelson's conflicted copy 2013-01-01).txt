@@ -1,0 +1,23 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#h2Os9DvuEeeJgwNe96mqw" alt="Mental" border ="0">
+<map name="h2Os9DvuEeeJgwNe96mqw">
+<area shape="rect" coords="228, 103, 248, 123" href="file:///S:/Need for T3 Session/index.html" alt="Need for T3 Session">
+<area shape="rect" coords="8, 40, 253, 125" href="file:///S:/Need for T3 Session/index.html" alt="Need for T3 Session">
+<area shape="rect" coords="635, 88, 655, 108" href="file:///S:/Images/index.html" alt="Images">
+<area shape="rect" coords="431, 8, 657, 110" href="file:///S:/Images/index.html" alt="Images">
+<area shape="rect" coords="228, 245, 248, 265" href="file:///S:/Despair Anchor/index.html" alt="Despair Anchor">
+<area shape="rect" coords="13, 181, 253, 266" href="file:///S:/Despair Anchor/index.html" alt="Despair Anchor">
+<area shape="rect" coords="382, 226, 401, 246" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="281, 202, 403, 248" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="646, 421, 666, 440" href="file:///S:/Will to Die/index.html" alt="Will to Die">
+<area shape="rect" coords="431, 355, 668, 442" href="file:///S:/Will to Die/index.html" alt="Will to Die">
+<area shape="rect" coords="671, 310, 691, 329" href="file:///S:/Need to move Past/index.html" alt="Need to move Past">
+<area shape="rect" coords="431, 244, 693, 331" href="file:///S:/Need to move Past/index.html" alt="Need to move Past">
+<area shape="rect" coords="687, 198, 706, 218" href="file:///S:/Broadcast Message/index.html" alt="Broadcast Message">
+<area shape="rect" coords="431, 134, 709, 220" href="file:///S:/Broadcast Message/index.html" alt="Broadcast Message">
+<area shape="rect" coords="228, 390, 248, 410" href="file:///S:/No Will to Live/index.html" alt="No Will to Live">
+<area shape="rect" coords="8, 325, 253, 412" href="file:///S:/No Will to Live/index.html" alt="No Will to Live">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

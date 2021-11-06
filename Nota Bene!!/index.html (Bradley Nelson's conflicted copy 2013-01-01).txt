@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#lwo0iQlQq0ORghixj7bQqQ" alt="Nota Bene!!" border ="0">
+<map name="lwo0iQlQq0ORghixj7bQqQ">
+<area shape="rect" coords="682, 181, 703, 202" href="../I Agree/index.html" alt="I Agree">
+<area shape="rect" coords="534, 155, 704, 203" href="../I Agree/index.html" alt="I Agree">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,14 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#21zCrtt8uUOIZN6SdkKA" alt="Psychic Trauma" border ="0">
+<map name="21zCrtt8uUOIZN6SdkKA">
+<area shape="rect" coords="441, 370, 461, 391" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="378, 330, 463, 391" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="798, 382, 819, 402" href="../Psychic Trauma FlowChart/index.html" alt="Psychic Trauma FlowChart">
+<area shape="rect" coords="659, 380, 821, 404" href="../Psychic Trauma FlowChart/index.html" alt="Psychic Trauma FlowChart">
+<area shape="rect" coords="519, 288, 539, 308" href="../Post-Traumatic/index.html" alt="Post-Traumatic">
+<area shape="rect" coords="305, 140, 541, 310" href="../Post-Traumatic/index.html" alt="Post-Traumatic">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

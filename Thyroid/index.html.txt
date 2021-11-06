@@ -1,0 +1,16 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#4KE04pMqE2gH50osGRw" alt="Thyroid" border ="0">
+<map name="4KE04pMqE2gH50osGRw">
+<area shape="rect" coords="416, 452, 436, 473" href="../Endocrine System/index.html" alt="Endocrine System">
+<area shape="rect" coords="328, 440, 438, 475" href="../Endocrine System/index.html" alt="Endocrine System">
+<area shape="rect" coords="416, 413, 436, 434" href="../Glands/index.html" alt="Glands">
+<area shape="rect" coords="356, 416, 438, 436" href="../Glands/index.html" alt="Glands">
+<area shape="rect" coords="555, 346, 575, 366" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="341, 208, 577, 368" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="519, 456, 540, 476" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="445, 414, 542, 476" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

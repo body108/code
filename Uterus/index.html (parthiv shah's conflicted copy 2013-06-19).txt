@@ -1,0 +1,16 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#mIhlQp5SVk6DeEhBPv0GDw" alt="Uterus" border ="0">
+<map name="mIhlQp5SVk6DeEhBPv0GDw">
+<area shape="rect" coords="616, 415, 637, 436" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="403, 278, 639, 438" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="448, 490, 469, 511" href="../Reproductive System/index.html" alt="Reproductive System">
+<area shape="rect" coords="342, 479, 471, 513" href="../Reproductive System/index.html" alt="Reproductive System">
+<area shape="rect" coords="448, 452, 469, 472" href="../Organs/index.html" alt="Organs">
+<area shape="rect" coords="386, 454, 471, 474" href="../Organs/index.html" alt="Organs">
+<area shape="rect" coords="551, 494, 572, 515" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="477, 452, 574, 515" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

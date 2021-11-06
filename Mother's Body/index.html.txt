@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#jtVf8VJoUeVq8xE9lAbxA" alt="Mother's Body" border ="0">
+<map name="jtVf8VJoUeVq8xE9lAbxA">
+<area shape="rect" coords="555, 398, 576, 418" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="493, 357, 578, 418" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="625, 320, 646, 341" href="../Mother disconnected from unborn child/index.html" alt="Mother disconnected from unborn child">
+<area shape="rect" coords="412, 47, 648, 343" href="../Mother disconnected from unborn child/index.html" alt="Mother disconnected from unborn child">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#MELMhSz9mkCM0hWpTuUMA" alt="Mental Fitness Therapies" border ="0">
+<map name="MELMhSz9mkCM0hWpTuUMA">
+<area shape="rect" coords="371, 285, 392, 306" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="309, 245, 394, 306" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="472, 200, 493, 221" href="../Mental &amp; Emotional Fitness/index.html" alt="Mental &amp; Emotional Fitness">
+<area shape="rect" coords="209, 9, 495, 223" href="../Mental &amp; Emotional Fitness/index.html" alt="Mental &amp; Emotional Fitness">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

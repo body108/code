@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#tm6owOqgV0aJVgsFFabs3w" alt="Pelvitrochanteric Muscles" border ="0">
+<map name="tm6owOqgV0aJVgsFFabs3w">
+<area shape="rect" coords="619, 284, 640, 305" href="../Hip Muscles/index.html" alt="Hip Muscles">
+<area shape="rect" coords="400, 237, 642, 307" href="../Hip Muscles/index.html" alt="Hip Muscles">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

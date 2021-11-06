@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#LNCRuCjv1U6c30jVXplf7A" alt="Face &amp; Neck Vessels" border ="0">
+<map name="LNCRuCjv1U6c30jVXplf7A">
+<area shape="rect" coords="579, 407, 600, 428" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="517, 367, 602, 428" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="653, 324, 674, 345" href="../Head &amp; Neck Vessels/index.html" alt="Head &amp; Neck Vessels">
+<area shape="rect" coords="440, 101, 676, 347" href="../Head &amp; Neck Vessels/index.html" alt="Head &amp; Neck Vessels">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

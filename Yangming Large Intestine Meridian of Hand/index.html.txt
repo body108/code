@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#hqokHCPed0mg73xqXWzmKA" alt="Yangming Large Intestine Meridian of Hand" border ="0">
+<map name="hqokHCPed0mg73xqXWzmKA">
+<area shape="rect" coords="465, 539, 486, 560" href="../The Twelve Standard Meridians/index.html" alt="The Twelve Standard Meridians">
+<area shape="rect" coords="8, 9, 488, 561" href="../The Twelve Standard Meridians/index.html" alt="The Twelve Standard Meridians">
+<area shape="rect" coords="262, 622, 283, 643" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="200, 582, 285, 643" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

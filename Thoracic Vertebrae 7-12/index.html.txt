@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#CqbuSQb7IUmyWVxIDp7sYQ" alt="Thoracic Vertebrae 7-12" border ="0">
+<map name="CqbuSQb7IUmyWVxIDp7sYQ">
+<area shape="rect" coords="605, 401, 626, 422" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="543, 361, 628, 422" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="716, 320, 737, 341" href="../Thoracic Vertebrae/index.html" alt="Thoracic Vertebrae">
+<area shape="rect" coords="435, 75, 739, 343" href="../Thoracic Vertebrae/index.html" alt="Thoracic Vertebrae">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

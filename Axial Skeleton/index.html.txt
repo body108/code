@@ -1,0 +1,20 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#W6wxCGPWp0CHjg33DwYCg" alt="Axial Skeleton" border ="0">
+<map name="W6wxCGPWp0CHjg33DwYCg">
+<area shape="rect" coords="838, 231, 859, 252" href="LinkedDocuments/BC-Dental-Relationships-Chart.pdf" alt="BC-Dental-Relationships-Chart.pdf" target="_blank" >
+<area shape="rect" coords="600, 202, 861, 254" href="LinkedDocuments/BC-Dental-Relationships-Chart.pdf" alt="BC-Dental-Relationships-Chart.pdf" target="_blank" >
+<area shape="rect" coords="794, 141, 814, 162" href="../The Cranial bones/index.html" alt="The Cranial bones:">
+<area shape="rect" coords="600, 41, 817, 164" href="../The Cranial bones/index.html" alt="The Cranial bones:">
+<area shape="rect" coords="293, 430, 314, 451" href="../Vertebral Column/index.html" alt="Vertebral Column">
+<area shape="rect" coords="8, 9, 319, 453" href="../Vertebral Column/index.html" alt="Vertebral Column">
+<area shape="rect" coords="885, 437, 905, 458" href="../Thoracic Cage/index.html" alt="Thoracic Cage">
+<area shape="rect" coords="600, 314, 908, 460" href="../Thoracic Cage/index.html" alt="Thoracic Cage">
+<area shape="rect" coords="496, 469, 517, 490" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="434, 428, 519, 490" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="571, 387, 592, 408" href="../Skeleton/index.html" alt="Skeleton">
+<area shape="rect" coords="358, 68, 594, 410" href="../Skeleton/index.html" alt="Skeleton">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

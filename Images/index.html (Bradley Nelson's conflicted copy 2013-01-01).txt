@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#ind7dB32TkmPjO9cwpyS7g" alt="Images" border ="0">
+<map name="ind7dB32TkmPjO9cwpyS7g">
+<area shape="rect" coords="169, 260, 189, 281" href="../Mental/index.html" alt="Mental">
+<area shape="rect" coords="9, 138, 191, 282" href="../Mental/index.html" alt="Mental">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

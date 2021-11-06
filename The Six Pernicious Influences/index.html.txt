@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#XKpYZCOc0SigEKrspxpaA" alt="The Six Pernicious Influences" border ="0">
+<map name="XKpYZCOc0SigEKrspxpaA">
+<area shape="rect" coords="574, 326, 595, 347" href="../Excesses/index.html" alt="Excesses ">
+<area shape="rect" coords="335, 188, 597, 348" href="../Excesses/index.html" alt="Excesses ">
+<area shape="rect" coords="488, 411, 508, 432" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="425, 371, 510, 432" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

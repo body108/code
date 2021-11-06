@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#XtAmz2rAlUCg6rpMmXRrWA" alt="Body Work" border ="0">
+<map name="XtAmz2rAlUCg6rpMmXRrWA">
+<area shape="rect" coords="564, 253, 585, 274" href="../Physical Needs/index.html" alt="Physical Needs">
+<area shape="rect" coords="287, 72, 587, 276" href="../Physical Needs/index.html" alt="Physical Needs">
+<area shape="rect" coords="458, 332, 479, 353" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="396, 292, 480, 353" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

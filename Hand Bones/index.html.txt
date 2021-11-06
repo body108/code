@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#rCd8hH2Q8ku9LSWjshXlw" alt="Hand Bones" border ="0">
+<map name="rCd8hH2Q8ku9LSWjshXlw">
+<area shape="rect" coords="571, 345, 592, 366" href="../Wrist and Hand Bones/index.html" alt="Wrist and Hand Bones">
+<area shape="rect" coords="358, 160, 594, 368" href="../Wrist and Hand Bones/index.html" alt="Wrist and Hand Bones">
+<area shape="rect" coords="501, 423, 522, 443" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="439, 382, 524, 443" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

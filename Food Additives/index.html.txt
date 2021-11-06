@@ -1,0 +1,14 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#TJ1NRtijkkmM47FGIjzig" alt="Food Additives" border ="0">
+<map name="TJ1NRtijkkmM47FGIjzig">
+<area shape="rect" coords="1217, 214, 1237, 235" href="../Detoxification/index.html" alt="Detoxification">
+<area shape="rect" coords="1011, 212, 1240, 237" href="../Detoxification/index.html" alt="Detoxification">
+<area shape="rect" coords="774, 431, 794, 452" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="711, 391, 796, 452" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="863, 347, 884, 368" href="../Chemicals/index.html" alt="Chemicals">
+<area shape="rect" coords="618, 188, 886, 370" href="../Chemicals/index.html" alt="Chemicals">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

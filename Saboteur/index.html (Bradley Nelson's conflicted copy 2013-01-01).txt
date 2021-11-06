@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#kgckAWwLr0eX5rmvd7W6sw" alt="Saboteur" border ="0">
+<map name="kgckAWwLr0eX5rmvd7W6sw">
+<area shape="rect" coords="289, 258, 310, 279" href="../Offensive/index.html" alt="Offensive">
+<area shape="rect" coords="8, 55, 312, 281" href="../Offensive/index.html" alt="Offensive">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

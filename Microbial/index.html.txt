@@ -1,0 +1,14 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#IHnFDaxNw0S4lyGIi6fX8w" alt="Microbial" border ="0">
+<map name="IHnFDaxNw0S4lyGIi6fX8w">
+<area shape="rect" coords="457, 301, 478, 321" href="../Toxicity/index.html" alt="Toxicity">
+<area shape="rect" coords="298, 191, 480, 323" href="../Toxicity/index.html" alt="Toxicity">
+<area shape="rect" coords="408, 382, 429, 403" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="346, 341, 431, 403" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="834, 336, 855, 356" href="../Pathogens/index.html" alt="Pathogens">
+<area shape="rect" coords="620, 310, 858, 358" href="../Pathogens/index.html" alt="Pathogens">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

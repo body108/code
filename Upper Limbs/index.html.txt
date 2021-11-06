@@ -1,0 +1,14 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#qphD4GCvGU63sotoPmChw" alt="Upper Limbs" border ="0">
+<map name="qphD4GCvGU63sotoPmChw">
+<area shape="rect" coords="306, 143, 326, 164" href="../Wrist and Hand Bones/index.html" alt="Wrist and Hand Bones">
+<area shape="rect" coords="9, 8, 331, 166" href="../Wrist and Hand Bones/index.html" alt="Wrist and Hand Bones">
+<area shape="rect" coords="462, 521, 483, 542" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="400, 481, 485, 542" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="539, 430, 560, 451" href="../Appendicular Skeleton/index.html" alt="Appendicular Skeleton">
+<area shape="rect" coords="326, 215, 562, 453" href="../Appendicular Skeleton/index.html" alt="Appendicular Skeleton">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,22 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#cgfrKVlb30KXmk0kp1j3jg" alt="Exercise" border ="0">
+<map name="cgfrKVlb30KXmk0kp1j3jg">
+<area shape="rect" coords="543, 189, 564, 210" href="../Sports/index.html" alt="Sports">
+<area shape="rect" coords="470, 185, 566, 212" href="../Sports/index.html" alt="Sports">
+<area shape="rect" coords="578, 12, 599, 33" href="../Martial Arts/index.html" alt="Martial Arts">
+<area shape="rect" coords="470, 8, 601, 35" href="../Martial Arts/index.html" alt="Martial Arts">
+<area shape="rect" coords="637, 101, 658, 121" href="../Movement Therapy/index.html" alt="Movement Therapy">
+<area shape="rect" coords="470, 97, 660, 123" href="../Movement Therapy/index.html" alt="Movement Therapy">
+<area shape="rect" coords="441, 184, 462, 205" href="../Physical Needs/index.html" alt="Physical Needs">
+<area shape="rect" coords="178, 13, 464, 207" href="../Physical Needs/index.html" alt="Physical Needs">
+<area shape="rect" coords="340, 263, 361, 283" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="278, 222, 363, 283" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="146, 12, 167, 33" href="../Aerobics/index.html" alt="Aerobics">
+<area shape="rect" coords="60, 8, 172, 35" href="../Aerobics/index.html" alt="Aerobics">
+<area shape="rect" coords="146, 189, 167, 210" href="../Weight Lifting/index.html" alt="Weight Lifting">
+<area shape="rect" coords="8, 185, 172, 212" href="../Weight Lifting/index.html" alt="Weight Lifting">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#CDmuCeDmMEKkYWZHfwD9Jg" alt="True Ribs" border ="0">
+<map name="CDmuCeDmMEKkYWZHfwD9Jg">
+<area shape="rect" coords="454, 223, 475, 243" href="../Thoracic Cage/index.html" alt="Thoracic Cage">
+<area shape="rect" coords="317, 197, 477, 245" href="../Thoracic Cage/index.html" alt="Thoracic Cage">
+<area shape="rect" coords="415, 307, 436, 328" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="353, 267, 438, 328" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

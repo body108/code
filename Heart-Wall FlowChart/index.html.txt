@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#xjSwbPXNJkiIhG6CHWPneA" alt="Heart-Wall FlowChart" border ="0">
+<map name="xjSwbPXNJkiIhG6CHWPneA">
+<area shape="rect" coords="607, 272, 628, 293" href="../Heart-Wall/index.html" alt="Heart-Wall">
+<area shape="rect" coords="444, 225, 630, 295" href="../Heart-Wall/index.html" alt="Heart-Wall">
+<area shape="rect" coords="557, 353, 578, 374" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="495, 312, 580, 374" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,10 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#hixkbsTsGkWawiOBgMFQ" alt="Mammary Glands" border ="0">
+<map name="hixkbsTsGkWawiOBgMFQ">
+<area shape="rect" coords="235, 213, 256, 234" href="../Reproductive System/index.html" alt="Reproductive System">
+<area shape="rect" coords="8, 69, 258, 235" href="../Reproductive System/index.html" alt="Reproductive System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

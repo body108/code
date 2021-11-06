@@ -1,0 +1,18 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#M7TMHL2X60uv1XscEvy1Cg" alt="Foot Muscles" border ="0">
+<map name="M7TMHL2X60uv1XscEvy1Cg">
+<area shape="rect" coords="239, 189, 259, 210" href="../Middle Plantar Foot Muscles/index.html" alt="Middle Plantar Foot Muscles">
+<area shape="rect" coords="8, 185, 264, 212" href="../Middle Plantar Foot Muscles/index.html" alt="Middle Plantar Foot Muscles">
+<area shape="rect" coords="665, 12, 685, 33" href="../Dorsal Foot Muscles/index.html" alt="Dorsal Foot Muscles">
+<area shape="rect" coords="490, 8, 688, 35" href="../Dorsal Foot Muscles/index.html" alt="Dorsal Foot Muscles">
+<area shape="rect" coords="723, 189, 743, 210" href="../Medial Plantar Foot Muscles/index.html" alt="Medial Plantar Foot Muscles">
+<area shape="rect" coords="490, 185, 746, 212" href="../Medial Plantar Foot Muscles/index.html" alt="Medial Plantar Foot Muscles">
+<area shape="rect" coords="451, 112, 472, 132" href="../Lower Limb Muscles/index.html" alt="Lower Limb Muscles">
+<area shape="rect" coords="280, 86, 474, 134" href="../Lower Limb Muscles/index.html" alt="Lower Limb Muscles">
+<area shape="rect" coords="725, 101, 745, 121" href="../Lateral Plantar Foot Muscles/index.html" alt="Lateral Plantar Foot Muscles">
+<area shape="rect" coords="490, 97, 748, 123" href="../Lateral Plantar Foot Muscles/index.html" alt="Lateral Plantar Foot Muscles">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#hqokHCPed0mg73xqXWzmKA" alt="Yangming Lg. Int. Channel of Hand" border ="0">
+<map name="hqokHCPed0mg73xqXWzmKA">
+<area shape="rect" coords="637, 501, 658, 522" href="../Meridians/index.html" alt="Meridians">
+<area shape="rect" coords="234, 8, 660, 524" href="../Meridians/index.html" alt="Meridians">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,14 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#8uE8QlYT5kOlJXBOubmhJA" alt="Heavy Metals" border ="0">
+<map name="8uE8QlYT5kOlJXBOubmhJA">
+<area shape="rect" coords="876, 339, 897, 360" href="../Detoxification/index.html" alt="Detoxification">
+<area shape="rect" coords="671, 314, 899, 362" href="../Detoxification/index.html" alt="Detoxification">
+<area shape="rect" coords="506, 352, 527, 373" href="../Toxicity/index.html" alt="Toxicity">
+<area shape="rect" coords="293, 199, 529, 375" href="../Toxicity/index.html" alt="Toxicity">
+<area shape="rect" coords="430, 438, 451, 459" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="368, 398, 453, 459" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

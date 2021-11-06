@@ -1,0 +1,16 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#EE7T6l8x5EKzqMJQoS0Pgg" alt="Mold" border ="0">
+<map name="EE7T6l8x5EKzqMJQoS0Pgg">
+<area shape="rect" coords="838, 302, 858, 323" href="../Pathogens/index.html" alt="Pathogens">
+<area shape="rect" coords="624, 151, 860, 325" href="../Pathogens/index.html" alt="Pathogens">
+<area shape="rect" coords="476, 340, 497, 360" href="../Activated Sodium Chlorite/index.html" alt="Activated Sodium Chlorite">
+<area shape="rect" coords="324, 338, 499, 362" href="../Activated Sodium Chlorite/index.html" alt="Activated Sodium Chlorite">
+<area shape="rect" coords="763, 386, 784, 406" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="701, 345, 786, 406" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="476, 450, 497, 470" href="LinkedDocuments/BC-Candida Diet.pdf" alt="BC-Candida Diet.pdf">
+<area shape="rect" coords="267, 448, 499, 472" href="LinkedDocuments/BC-Candida Diet.pdf" alt="BC-Candida Diet.pdf">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

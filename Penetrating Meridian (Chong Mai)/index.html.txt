@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#ZaShclxVS0OVsjj1SZxdfw" alt="Penetrating Meridian (Chong Mai)" border ="0">
+<map name="ZaShclxVS0OVsjj1SZxdfw">
+<area shape="rect" coords="231, 623, 252, 644" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="169, 583, 254, 644" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="391, 541, 412, 562" href="../The Eight Extraordinary Meridians/index.html" alt="The Eight Extraordinary Meridians">
+<area shape="rect" coords="8, 8, 414, 564" href="../The Eight Extraordinary Meridians/index.html" alt="The Eight Extraordinary Meridians">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

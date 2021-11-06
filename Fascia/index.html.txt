@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#Yd5gFbmk0GwFLZKo6FUEA" alt="Fascia" border ="0">
+<map name="Yd5gFbmk0GwFLZKo6FUEA">
+<area shape="rect" coords="173, 322, 194, 343" href="../Connective Tissue/index.html" alt="Connective Tissue">
+<area shape="rect" coords="8, 145, 196, 345" href="../Connective Tissue/index.html" alt="Connective Tissue">
+<area shape="rect" coords="125, 404, 146, 425" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="63, 363, 148, 425" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

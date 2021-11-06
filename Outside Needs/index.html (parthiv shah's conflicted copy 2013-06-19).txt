@@ -1,0 +1,22 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#txnWZNfQMEuDtItmGpCM1A" alt="Outside Needs" border ="0">
+<map name="txnWZNfQMEuDtItmGpCM1A">
+<area shape="rect" coords="1069, 463, 1089, 483" href="../Energy Work/index.html" alt="Energy Work">
+<area shape="rect" coords="716, 343, 1092, 485" href="../Energy Work/index.html" alt="Energy Work">
+<area shape="rect" coords="1115, 128, 1135, 149" href="../Adjunctive Therapy/index.html" alt="Adjunctive Therapy">
+<area shape="rect" coords="716, 9, 1138, 151" href="../Adjunctive Therapy/index.html" alt="Adjunctive Therapy">
+<area shape="rect" coords="623, 327, 643, 348" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="561, 286, 645, 348" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="683, 249, 704, 269" href="../Nutrition &amp; Lifestyle/index.html" alt="Nutrition &amp; Lifestyle">
+<area shape="rect" coords="500, 223, 706, 271" href="../Nutrition &amp; Lifestyle/index.html" alt="Nutrition &amp; Lifestyle">
+<area shape="rect" coords="465, 468, 485, 488" href="../Physical Needs/index.html" alt="Physical Needs">
+<area shape="rect" coords="95, 348, 490, 490" href="../Physical Needs/index.html" alt="Physical Needs">
+<area shape="rect" coords="1116, 295, 1136, 316" href="../Energy Techniques/index.html" alt="Energy Techniques">
+<area shape="rect" coords="716, 176, 1139, 318" href="../Energy Techniques/index.html" alt="Energy Techniques">
+<area shape="rect" coords="465, 300, 485, 321" href="../Mental &amp; Emotional Fitness/index.html" alt="Mental &amp; Emotional Fitness">
+<area shape="rect" coords="8, 181, 490, 323" href="../Mental &amp; Emotional Fitness/index.html" alt="Mental &amp; Emotional Fitness">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

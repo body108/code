@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#PyBqX2g2w0uxtvJ8gkX2w" alt="Mother's Spirit" border ="0">
+<map name="PyBqX2g2w0uxtvJ8gkX2w">
+<area shape="rect" coords="625, 320, 646, 340" href="../Mother disconnected from unborn child/index.html" alt="Mother disconnected from unborn child">
+<area shape="rect" coords="412, 46, 648, 342" href="../Mother disconnected from unborn child/index.html" alt="Mother disconnected from unborn child">
+<area shape="rect" coords="556, 397, 577, 418" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="494, 356, 579, 418" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

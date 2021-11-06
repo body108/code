@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#Mu3rTtKke7RQ1bLrKgQg" alt="Shaoyang Sanjiao (Triple Warmer) Channel of Hand " border ="0">
+<map name="Mu3rTtKke7RQ1bLrKgQg">
+<area shape="rect" coords="720, 613, 740, 633" href="../The Twelve Standard Meridians/index.html" alt="The Twelve Standard Meridians">
+<area shape="rect" coords="208, 8, 742, 634" href="../The Twelve Standard Meridians/index.html" alt="The Twelve Standard Meridians">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#Y09bfVRCHUabL9o1V9zeEQ" alt="Post-Hypnotic Suggestions" border ="0">
+<map name="Y09bfVRCHUabL9o1V9zeEQ">
+<area shape="rect" coords="146, 418, 167, 439" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="84, 377, 169, 439" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="221, 335, 242, 356" href="../Offensive/index.html" alt="Offensive">
+<area shape="rect" coords="8, 126, 244, 358" href="../Offensive/index.html" alt="Offensive">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

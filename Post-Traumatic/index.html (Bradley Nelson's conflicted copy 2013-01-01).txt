@@ -1,0 +1,17 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#mvN6AeEQhkybirVll7FBtg" alt="Post-Traumatic" border ="0">
+<map name="mvN6AeEQhkybirVll7FBtg">
+<area shape="rect" coords="645, 505, 664, 525" href="file:///S:/Miasm/index.html" alt="Miasm">
+<area shape="rect" coords="432, 372, 666, 527" href="file:///S:/Miasm/index.html" alt="Miasm">
+<area shape="rect" coords="229, 513, 249, 533" href="file:///S:/Physical Trauma/index.html" alt="Physical Trauma">
+<area shape="rect" coords="14, 372, 254, 535" href="file:///S:/Physical Trauma/index.html" alt="Physical Trauma">
+<area shape="rect" coords="416, 273, 436, 293" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="249, 249, 437, 295" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="640, 150, 659, 170" href="file:///S:/Inflammation/index.html" alt="Inflammation">
+<area shape="rect" coords="432, 17, 661, 172" href="file:///S:/Inflammation/index.html" alt="Inflammation">
+<area shape="rect" coords="229, 150, 249, 170" href="file:///S:/Psychic Trauma/index.html" alt="Psychic Trauma">
+<area shape="rect" coords="8, 8, 254, 172" href="file:///S:/Psychic Trauma/index.html" alt="Psychic Trauma">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

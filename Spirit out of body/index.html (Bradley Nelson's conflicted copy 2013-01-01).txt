@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#Ey6QjAZZYkuNPLI14CHuFA" alt="Spirit out of body" border ="0">
+<map name="Ey6QjAZZYkuNPLI14CHuFA">
+<area shape="rect" coords="459, 265, 479, 286" href="../Disconnections/index.html" alt="Disconnections">
+<area shape="rect" coords="251, 105, 481, 287" href="../Disconnections/index.html" alt="Disconnections">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

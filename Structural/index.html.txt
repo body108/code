@@ -1,0 +1,14 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#5gY1yvqAW0qDRPU9EuRag" alt="Misalignments" border ="0">
+<map name="5gY1yvqAW0qDRPU9EuRag">
+<area shape="rect" coords="600, 271, 620, 290" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="398, 140, 622, 292" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="886, 476, 906, 496" href="../Skeleton/index.html" alt="Skeleton">
+<area shape="rect" coords="628, 287, 908, 498" href="../Skeleton/index.html" alt="Skeleton">
+<area shape="rect" coords="368, 448, 387, 468" href="../Systems/index.html" alt="Systems">
+<area shape="rect" coords="113, 287, 392, 469" href="../Systems/index.html" alt="Systems">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

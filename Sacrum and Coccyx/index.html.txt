@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#CIxthPgJjkiT7KdLsFlXQg" alt="Sacrum and Coccyx" border ="0">
+<map name="CIxthPgJjkiT7KdLsFlXQg">
+<area shape="rect" coords="267, 366, 288, 387" href="../Vertebral Column/index.html" alt="Vertebral Column">
+<area shape="rect" coords="8, 111, 290, 389" href="../Vertebral Column/index.html" alt="Vertebral Column">
+<area shape="rect" coords="166, 450, 187, 470" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="104, 409, 189, 470" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

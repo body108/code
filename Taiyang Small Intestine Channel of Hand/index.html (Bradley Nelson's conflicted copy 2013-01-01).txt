@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#b3H3bBJT00mXLBHRzDYVA" alt="Taiyang Small Intestine Channel of Hand " border ="0">
+<map name="b3H3bBJT00mXLBHRzDYVA">
+<area shape="rect" coords="628, 407, 649, 428" href="../Meridians/index.html" alt="Meridians">
+<area shape="rect" coords="225, 8, 651, 430" href="../Meridians/index.html" alt="Meridians">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

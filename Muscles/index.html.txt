@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#6lBeQAmDUe5ukOWGMd3A" alt="Muscles" border ="0">
+<map name="6lBeQAmDUe5ukOWGMd3A">
+<area shape="rect" coords="279, 216, 299, 236" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="161, 192, 301, 238" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

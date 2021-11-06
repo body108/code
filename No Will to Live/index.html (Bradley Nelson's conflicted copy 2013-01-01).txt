@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#NIUfFBuRdEafIN0dfI755w" alt="No Will to Live" border ="0">
+<map name="NIUfFBuRdEafIN0dfI755w">
+<area shape="rect" coords="197, 318, 218, 339" href="../Mental/index.html" alt="Mental">
+<area shape="rect" coords="8, 195, 220, 341" href="../Mental/index.html" alt="Mental">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

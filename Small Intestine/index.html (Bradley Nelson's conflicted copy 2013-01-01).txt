@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#Wgi9Hr5WEu7AKntXDSqLQ" alt="Small Intestine" border ="0">
+<map name="Wgi9Hr5WEu7AKntXDSqLQ">
+<area shape="rect" coords="561, 351, 582, 372" href="../Organs/index.html" alt="Organs">
+<area shape="rect" coords="293, 256, 583, 374" href="../Organs/index.html" alt="Organs">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

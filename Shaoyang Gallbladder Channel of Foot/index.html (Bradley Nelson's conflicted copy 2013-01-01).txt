@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#tASexrs5DEqAZG5rAYw1w" alt="Shaoyang Gallbladder Channel of Foot" border ="0">
+<map name="tASexrs5DEqAZG5rAYw1w">
+<area shape="rect" coords="529, 513, 550, 533" href="../Meridians/index.html" alt="Meridians">
+<area shape="rect" coords="236, 9, 552, 535" href="../Meridians/index.html" alt="Meridians">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

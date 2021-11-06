@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#hoJVQPjsnkeDjxL7w26rYQ" alt="Shaoyin Kidney Channel of Foot " border ="0">
+<map name="hoJVQPjsnkeDjxL7w26rYQ">
+<area shape="rect" coords="551, 620, 572, 641" href="../Meridians/index.html" alt="Meridians">
+<area shape="rect" coords="148, 9, 574, 643" href="../Meridians/index.html" alt="Meridians">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

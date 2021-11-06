@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#bD2dXd65JkGkIzNTSXYdkA" alt="Heart-Wall" border ="0">
+<map name="bD2dXd65JkGkIzNTSXYdkA">
+<area shape="rect" coords="460, 320, 481, 341" href="../Emotional/index.html" alt="Emotional">
+<area shape="rect" coords="306, 199, 482, 343" href="../Emotional/index.html" alt="Emotional">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

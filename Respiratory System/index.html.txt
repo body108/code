@@ -1,0 +1,14 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#9mexp73bUiutpGvXNuojg" alt="Respiratory System" border ="0">
+<map name="9mexp73bUiutpGvXNuojg">
+<area shape="rect" coords="329, 639, 349, 660" href="../Lungs/index.html" alt="Lungs">
+<area shape="rect" coords="78, 553, 354, 662" href="../Lungs/index.html" alt="Lungs">
+<area shape="rect" coords="490, 422, 511, 443" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="428, 382, 513, 443" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="570, 337, 591, 357" href="../Systems/index.html" alt="Systems">
+<area shape="rect" coords="341, 311, 593, 359" href="../Systems/index.html" alt="Systems">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

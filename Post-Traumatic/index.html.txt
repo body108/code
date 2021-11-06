@@ -1,0 +1,20 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#mvN6AeEQhkybirVll7FBtg" alt="Post-Traumatic" border ="0">
+<map name="mvN6AeEQhkybirVll7FBtg">
+<area shape="rect" coords="807, 377, 828, 397" href="../Miasm/index.html" alt="Miasm">
+<area shape="rect" coords="550, 281, 830, 399" href="../Miasm/index.html" alt="Miasm">
+<area shape="rect" coords="337, 380, 357, 401" href="../Physical Trauma/index.html" alt="Physical Trauma">
+<area shape="rect" coords="8, 281, 362, 403" href="../Physical Trauma/index.html" alt="Physical Trauma">
+<area shape="rect" coords="476, 289, 496, 310" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="414, 249, 498, 310" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="539, 208, 560, 228" href="../Energies/index.html" alt="Energies">
+<area shape="rect" coords="350, 182, 562, 230" href="../Energies/index.html" alt="Energies">
+<area shape="rect" coords="853, 108, 873, 129" href="../Inflammation/index.html" alt="Inflammation">
+<area shape="rect" coords="550, 9, 876, 131" href="../Inflammation/index.html" alt="Inflammation">
+<area shape="rect" coords="337, 108, 357, 129" href="../Psychic Trauma/index.html" alt="Psychic Trauma">
+<area shape="rect" coords="12, 12, 362, 131" href="../Psychic Trauma/index.html" alt="Psychic Trauma">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

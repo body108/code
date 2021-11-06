@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#Mu3rTtKke7RQ1bLrKgQg" alt="Shaoyang Sanjiao (Triple Warmer) Channel of Hand " border ="0">
+<map name="Mu3rTtKke7RQ1bLrKgQg">
+<area shape="rect" coords="626, 447, 647, 468" href="../Meridians/index.html" alt="Meridians">
+<area shape="rect" coords="223, 8, 649, 470" href="../Meridians/index.html" alt="Meridians">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

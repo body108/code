@@ -1,0 +1,22 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#T6HDfvYdmEyUlimfxMKhHw" alt="Parasites" border ="0">
+<map name="T6HDfvYdmEyUlimfxMKhHw">
+<area shape="rect" coords="212, 200, 233, 221" href="../VRM1/index.html" alt="VRM1">
+<area shape="rect" coords="126, 113, 235, 223" href="../VRM1/index.html" alt="VRM1">
+<area shape="rect" coords="212, 426, 233, 447" href="../VRM3/index.html" alt="VRM3">
+<area shape="rect" coords="126, 340, 235, 449" href="../VRM3/index.html" alt="VRM3">
+<area shape="rect" coords="212, 313, 233, 333" href="../VRM2/index.html" alt="VRM2">
+<area shape="rect" coords="126, 227, 235, 335" href="../VRM2/index.html" alt="VRM2">
+<area shape="rect" coords="212, 684, 233, 705" href="../Activated Sodium Chlorite/index.html" alt="Activated Sodium Chlorite">
+<area shape="rect" coords="86, 567, 235, 707" href="../Activated Sodium Chlorite/index.html" alt="Activated Sodium Chlorite">
+<area shape="rect" coords="212, 540, 233, 561" href="../VRM4/index.html" alt="VRM4">
+<area shape="rect" coords="126, 453, 235, 563" href="../VRM4/index.html" alt="VRM4">
+<area shape="rect" coords="503, 435, 523, 456" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="440, 395, 525, 456" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="577, 351, 598, 372" href="../Pathogens/index.html" alt="Pathogens">
+<area shape="rect" coords="364, 201, 600, 373" href="../Pathogens/index.html" alt="Pathogens">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

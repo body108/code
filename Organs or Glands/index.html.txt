@@ -1,0 +1,14 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#zplExdAdT02tz9SaBI0Mg" alt="Organs or Glands" border ="0">
+<map name="zplExdAdT02tz9SaBI0Mg">
+<area shape="rect" coords="339, 215, 359, 235" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="138, 191, 360, 237" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="468, 121, 488, 141" href="../Organs/index.html" alt="Organs">
+<area shape="rect" coords="338, 100, 490, 143" href="../Organs/index.html" alt="Organs">
+<area shape="rect" coords="135, 306, 155, 326" href="../Glands/index.html" alt="Glands">
+<area shape="rect" coords="8, 285, 160, 328" href="../Glands/index.html" alt="Glands">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

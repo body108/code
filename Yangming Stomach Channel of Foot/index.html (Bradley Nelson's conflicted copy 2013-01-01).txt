@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#ZaShclxVS0OVsjj1SZxdfw" alt="Yangming Stomach Channel of Foot " border ="0">
+<map name="ZaShclxVS0OVsjj1SZxdfw">
+<area shape="rect" coords="486, 358, 507, 379" href="../Meridians/index.html" alt="Meridians">
+<area shape="rect" coords="233, 9, 509, 381" href="../Meridians/index.html" alt="Meridians">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

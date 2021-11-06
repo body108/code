@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#p4arazI0OkaSpBYNyNqisA" alt="External Nose Muscles" border ="0">
+<map name="p4arazI0OkaSpBYNyNqisA">
+<area shape="rect" coords="632, 253, 653, 274" href="../Superficial Head Muscles/index.html" alt="Superficial Head Muscles">
+<area shape="rect" coords="441, 206, 655, 276" href="../Superficial Head Muscles/index.html" alt="Superficial Head Muscles">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

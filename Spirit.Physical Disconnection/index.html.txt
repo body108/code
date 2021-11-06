@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#0CGgpx6IWkmQQj8azIvaHQ" alt="Spirit/Physical Disconnection" border ="0">
+<map name="0CGgpx6IWkmQQj8azIvaHQ">
+<area shape="rect" coords="143, 438, 163, 459" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="80, 397, 165, 459" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="213, 357, 234, 378" href="../Disconnections/index.html" alt="Disconnections">
+<area shape="rect" coords="8, 224, 236, 380" href="../Disconnections/index.html" alt="Disconnections">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

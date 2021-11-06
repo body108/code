@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#7qdjMaO7lky0iO2Cc2opQ" alt="Wrist Bones" border ="0">
+<map name="7qdjMaO7lky0iO2Cc2opQ">
+<area shape="rect" coords="531, 363, 552, 384" href="../Wrist and Hand Bones/index.html" alt="Wrist and Hand Bones">
+<area shape="rect" coords="318, 217, 554, 385" href="../Wrist and Hand Bones/index.html" alt="Wrist and Hand Bones">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

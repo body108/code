@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#xwRAoOvN5Uq6tXcAqVWfQ" alt="Lateral Plantar Foot Muscles" border ="0">
+<map name="xwRAoOvN5Uq6tXcAqVWfQ">
+<area shape="rect" coords="251, 284, 272, 305" href="../Foot Muscles/index.html" alt="Foot Muscles">
+<area shape="rect" coords="8, 237, 274, 307" href="../Foot Muscles/index.html" alt="Foot Muscles">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

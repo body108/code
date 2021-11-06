@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#A11Lo1QhlU6Noog9rBizqA" alt="Shielding" border ="0">
+<map name="A11Lo1QhlU6Noog9rBizqA">
+<area shape="rect" coords="137, 202, 158, 223" href="../I Agree/index.html" alt="I Agree">
+<area shape="rect" coords="9, 176, 159, 224" href="../I Agree/index.html" alt="I Agree">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->
