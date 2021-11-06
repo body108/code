@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#ZQbtVEFPcEmcHk8LHYb3lw" alt="Cerebrum" border ="0">
+<map name="ZQbtVEFPcEmcHk8LHYb3lw">
+<area shape="rect" coords="625, 372, 645, 393" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="562, 332, 647, 393" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="660, 292, 681, 312" href="../Brain/index.html" alt="Brain">
+<area shape="rect" coords="521, 266, 683, 314" href="../Brain/index.html" alt="Brain">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

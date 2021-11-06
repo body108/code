@@ -1,0 +1,26 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#6gdLSDF5kCxZgRfueBiQw" alt="Chakras" border ="0">
+<map name="6gdLSDF5kCxZgRfueBiQw">
+<area shape="rect" coords="293, 94, 313, 115" href="../Root/index.html" alt="Root">
+<area shape="rect" coords="103, 8, 318, 117" href="../Root/index.html" alt="Root">
+<area shape="rect" coords="257, 362, 277, 383" href="../Solar Plexus/index.html" alt="Solar Plexus">
+<area shape="rect" coords="9, 276, 282, 385" href="../Solar Plexus/index.html" alt="Solar Plexus">
+<area shape="rect" coords="293, 629, 313, 650" href="../Throat/index.html" alt="Throat">
+<area shape="rect" coords="91, 544, 318, 652" href="../Throat/index.html" alt="Throat">
+<area shape="rect" coords="445, 502, 465, 522" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="382, 461, 467, 522" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="551, 416, 571, 437" href="../Circuits &amp; Systems/index.html" alt="Circuits &amp; Systems">
+<area shape="rect" coords="289, 221, 573, 439" href="../Circuits &amp; Systems/index.html" alt="Circuits &amp; Systems">
+<area shape="rect" coords="738, 595, 759, 616" href="../Brow/index.html" alt="Brow">
+<area shape="rect" coords="544, 510, 761, 618" href="../Brow/index.html" alt="Brow">
+<area shape="rect" coords="257, 228, 277, 249" href="../Sacral/index.html" alt="Sacral">
+<area shape="rect" coords="55, 142, 282, 251" href="../Sacral/index.html" alt="Sacral">
+<area shape="rect" coords="785, 462, 805, 483" href="../Crown/index.html" alt="Crown">
+<area shape="rect" coords="580, 377, 808, 485" href="../Crown/index.html" alt="Crown">
+<area shape="rect" coords="257, 496, 277, 517" href="../Heart Chakra/index.html" alt="Heart Chakra">
+<area shape="rect" coords="61, 410, 282, 519" href="../Heart Chakra/index.html" alt="Heart Chakra">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

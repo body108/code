@@ -1,0 +1,10 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#ON9L70UIHESOUMLM0z4b7w" alt="Cavitation" border ="0">
+<map name="ON9L70UIHESOUMLM0z4b7w">
+<area shape="rect" coords="221, 297, 242, 318" href="../Dental/index.html" alt="Dental">
+<area shape="rect" coords="8, 155, 244, 319" href="../Dental/index.html" alt="Dental">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

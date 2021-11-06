@@ -1,0 +1,10 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#9D3HtgEjR0y8IlKcDRJ1pQ" alt="Cavity" border ="0">
+<map name="9D3HtgEjR0y8IlKcDRJ1pQ">
+<area shape="rect" coords="221, 198, 242, 219" href="../Dental/index.html" alt="Dental">
+<area shape="rect" coords="8, 48, 244, 220" href="../Dental/index.html" alt="Dental">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

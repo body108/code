@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#TC3ttZcQ1UmSiDM6elljUw" alt="Cervical Vertebrae" border ="0">
+<map name="TC3ttZcQ1UmSiDM6elljUw">
+<area shape="rect" coords="686, 416, 706, 437" href="../Vertebral Column/index.html" alt="Vertebral Column">
+<area shape="rect" coords="450, 141, 708, 439" href="../Vertebral Column/index.html" alt="Vertebral Column">
+<area shape="rect" coords="601, 501, 622, 522" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="539, 461, 623, 522" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

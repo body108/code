@@ -1,0 +1,23 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#6gdLSDF5kCxZgRfueBiQw" alt="Chakras" border ="0">
+<map name="6gdLSDF5kCxZgRfueBiQw">
+<area shape="rect" coords="279, 66, 299, 86" href="file:///S:/Root/index.html" alt="Root">
+<area shape="rect" coords="116, 17, 304, 88" href="file:///S:/Root/index.html" alt="Root">
+<area shape="rect" coords="240, 287, 260, 307" href="file:///S:/Solar Plexus/index.html" alt="Solar Plexus">
+<area shape="rect" coords="8, 222, 264, 308" href="file:///S:/Solar Plexus/index.html" alt="Solar Plexus">
+<area shape="rect" coords="672, 405, 691, 424" href="file:///S:/Throat/index.html" alt="Throat">
+<area shape="rect" coords="482, 338, 694, 426" href="file:///S:/Throat/index.html" alt="Throat">
+<area shape="rect" coords="494, 285, 514, 305" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="270, 127, 516, 307" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="700, 292, 720, 312" href="file:///S:/Brow/index.html" alt="Brow">
+<area shape="rect" coords="522, 235, 722, 314" href="file:///S:/Brow/index.html" alt="Brow">
+<area shape="rect" coords="240, 177, 260, 196" href="file:///S:/Sacral/index.html" alt="Sacral">
+<area shape="rect" coords="59, 112, 264, 198" href="file:///S:/Sacral/index.html" alt="Sacral">
+<area shape="rect" coords="710, 190, 729, 209" href="file:///S:/Crown/index.html" alt="Crown">
+<area shape="rect" coords="522, 124, 732, 211" href="file:///S:/Crown/index.html" alt="Crown">
+<area shape="rect" coords="279, 395, 299, 415" href="file:///S:/Heart Chakra/index.html" alt="Heart Chakra">
+<area shape="rect" coords="103, 332, 304, 417" href="file:///S:/Heart Chakra/index.html" alt="Heart Chakra">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

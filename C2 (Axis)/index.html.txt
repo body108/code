@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#VyC9RgUdWkuUSYHeyzTkA" alt="C2 (Axis)" border ="0">
+<map name="VyC9RgUdWkuUSYHeyzTkA">
+<area shape="rect" coords="210, 170, 230, 190" href="../Cervical Vertebrae/index.html" alt="Cervical Vertebrae">
+<area shape="rect" coords="8, 37, 232, 191" href="../Cervical Vertebrae/index.html" alt="Cervical Vertebrae">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

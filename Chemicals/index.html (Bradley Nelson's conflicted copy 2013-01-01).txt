@@ -1,0 +1,17 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#Ge6O0wVevEWrTDpHd0XqCg" alt="Chemicals" border ="0">
+<map name="Ge6O0wVevEWrTDpHd0XqCg">
+<area shape="rect" coords="205, 103, 225, 123" href="file:///S:/Environmental/index.html" alt="Environmental">
+<area shape="rect" coords="44, 8, 230, 125" href="file:///S:/Environmental/index.html" alt="Environmental">
+<area shape="rect" coords="570, 419, 589, 439" href="file:///S:/Medical/index.html" alt="Medical">
+<area shape="rect" coords="408, 325, 592, 441" href="file:///S:/Medical/index.html" alt="Medical">
+<area shape="rect" coords="573, 103, 593, 123" href="file:///S:/Food Additives/index.html" alt="Food Additives">
+<area shape="rect" coords="408, 13, 595, 125" href="file:///S:/Food Additives/index.html" alt="Food Additives">
+<area shape="rect" coords="371, 226, 391, 246" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="245, 202, 393, 248" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="205, 422, 225, 442" href="file:///S:/Recreational Drugs/index.html" alt="Recreational Drugs">
+<area shape="rect" coords="8, 325, 230, 444" href="file:///S:/Recreational Drugs/index.html" alt="Recreational Drugs">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->
