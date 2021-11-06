@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#2ChEPrq1PkKYMAzWv1wiaQ" alt="Deep Posterior Leg Muscles" border ="0">
+<map name="2ChEPrq1PkKYMAzWv1wiaQ">
+<area shape="rect" coords="640, 284, 661, 305" href="../Leg Muscles/index.html" alt="Leg Muscles">
+<area shape="rect" coords="401, 237, 663, 307" href="../Leg Muscles/index.html" alt="Leg Muscles">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

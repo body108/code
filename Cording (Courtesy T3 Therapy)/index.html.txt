@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#DGo5UsmI0C3bJe7CdMOrg" alt="Cording (Courtesy T3 Therapy)" border ="0">
+<map name="DGo5UsmI0C3bJe7CdMOrg">
+<area shape="rect" coords="221, 365, 242, 386" href="../Offensive/index.html" alt="Offensive">
+<area shape="rect" coords="8, 170, 244, 388" href="../Offensive/index.html" alt="Offensive">
+<area shape="rect" coords="150, 450, 170, 471" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="87, 410, 172, 471" href="../The Body Code System/index.html" alt="The Body Code System">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,16 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#6JaD9ChlYEGYPBFy0KX5wg" alt="Colon Components" border ="0">
+<map name="6JaD9ChlYEGYPBFy0KX5wg">
+<area shape="rect" coords="506, 248, 527, 268" href="../Colon/index.html" alt="Colon">
+<area shape="rect" coords="279, 222, 529, 270" href="../Colon/index.html" alt="Colon">
+<area shape="rect" coords="369, 322, 389, 343" href="../Digestive System/index.html" alt="Digestive System">
+<area shape="rect" coords="287, 311, 391, 345" href="../Digestive System/index.html" alt="Digestive System">
+<area shape="rect" coords="472, 326, 493, 347" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="398, 284, 495, 347" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="369, 284, 389, 305" href="../Organs/index.html" alt="Organs">
+<area shape="rect" coords="307, 286, 391, 306" href="../Organs/index.html" alt="Organs">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#DGo5UsmI0C3bJe7CdMOrg" alt="Cording (Courtesy T3 Therapy)" border ="0">
+<map name="DGo5UsmI0C3bJe7CdMOrg">
+<area shape="rect" coords="280, 249, 300, 268" href="../Offensive/index.html" alt="Offensive">
+<area shape="rect" coords="8, 48, 302, 270" href="../Offensive/index.html" alt="Offensive">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

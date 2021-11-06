@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#oW0tlvfWukCVGGgjy7K4Rw" alt="Deep Back Muscles" border ="0">
+<map name="oW0tlvfWukCVGGgjy7K4Rw">
+<area shape="rect" coords="591, 312, 612, 332" href="../Back Muscles/index.html" alt="Back Muscles">
+<area shape="rect" coords="362, 286, 614, 334" href="../Back Muscles/index.html" alt="Back Muscles">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

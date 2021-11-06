@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#fz40GfvpmECmHIYlAYSPw" alt="Deep Head Muscles" border ="0">
+<map name="fz40GfvpmECmHIYlAYSPw">
+<area shape="rect" coords="636, 272, 657, 292" href="../Head Muscles/index.html" alt="Head Muscles">
+<area shape="rect" coords="407, 246, 659, 294" href="../Head Muscles/index.html" alt="Head Muscles">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->
