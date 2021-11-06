@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#YDPPwKNXy0SrwnQ26G0y6w" alt="Distal Phalange bones" border ="0">
+<map name="YDPPwKNXy0SrwnQ26G0y6w">
+<area shape="rect" coords="466, 392, 487, 413" href="../Hand Bones/index.html" alt="Hand Bones">
+<area shape="rect" coords="245, 195, 489, 415" href="../Hand Bones/index.html" alt="Hand Bones">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

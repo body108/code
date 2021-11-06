@@ -1,0 +1,10 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#7M6X2BnK20qVNLLOBXPnkg" alt="Disclaimer" border ="0">
+<map name="7M6X2BnK20qVNLLOBXPnkg">
+<area shape="rect" coords="484, 35, 505, 55" href="../I Agree/index.html" alt="I Agree">
+<area shape="rect" coords="337, 9, 507, 57" href="../I Agree/index.html" alt="I Agree">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

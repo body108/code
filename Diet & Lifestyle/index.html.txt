@@ -1,0 +1,22 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#toJDCswd40qgIt76hRgPQw" alt="Diet &amp; Lifestyle" border ="0">
+<map name="toJDCswd40qgIt76hRgPQw">
+<area shape="rect" coords="140, 13, 161, 33" href="../Sleep/index.html" alt="Sleep">
+<area shape="rect" coords="75, 9, 165, 35" href="../Sleep/index.html" alt="Sleep">
+<area shape="rect" coords="535, 203, 556, 224" href="../Dehydration/index.html" alt="Dehydration">
+<area shape="rect" coords="422, 199, 558, 226" href="../Dehydration/index.html" alt="Dehydration">
+<area shape="rect" coords="392, 193, 413, 214" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="175, 32, 415, 216" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="143, 203, 164, 224" href="../Magnetic Field/index.html" alt="Magnetic Field">
+<area shape="rect" coords="9, 199, 168, 226" href="../Magnetic Field/index.html" alt="Magnetic Field">
+<area shape="rect" coords="520, 89, 541, 109" href="../Remedies/index.html" alt="Remedies">
+<area shape="rect" coords="422, 85, 543, 111" href="../Remedies/index.html" alt="Remedies">
+<area shape="rect" coords="143, 115, 164, 135" href="../Outside Needs/index.html" alt="Outside Needs">
+<area shape="rect" coords="12, 111, 168, 137" href="../Outside Needs/index.html" alt="Outside Needs">
+<area shape="rect" coords="547, 26, 568, 47" href="../PH Imbalance/index.html" alt="PH Imbalance">
+<area shape="rect" coords="422, 22, 570, 49" href="../PH Imbalance/index.html" alt="PH Imbalance">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

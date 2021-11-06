@@ -1,0 +1,12 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#VHP5iZSexEko6NC1pD8pg" alt="Disks" border ="0">
+<map name="VHP5iZSexEko6NC1pD8pg">
+<area shape="rect" coords="501, 423, 522, 444" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="439, 383, 524, 444" href="../The Body Code System/index.html" alt="The Body Code System">
+<area shape="rect" coords="562, 341, 583, 362" href="../Connective Tissue/index.html" alt="Connective Tissue">
+<area shape="rect" coords="377, 182, 585, 364" href="../Connective Tissue/index.html" alt="Connective Tissue">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

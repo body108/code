@@ -1,0 +1,10 @@
+<body bgcolor="2d2d2d">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#8OxRY5r0DEa8rHbxdRpiTg" alt="Dorsal Foot Muscles" border ="0">
+<map name="8OxRY5r0DEa8rHbxdRpiTg">
+<area shape="rect" coords="675, 274, 696, 294" href="../Foot Muscles/index.html" alt="Foot Muscles">
+<area shape="rect" coords="438, 248, 698, 296" href="../Foot Muscles/index.html" alt="Foot Muscles">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

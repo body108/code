@@ -1,0 +1,24 @@
+<body bgcolor="777B88">
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#ZGpJX7CwaUaehTDxuKaQog" alt="Detoxification" border ="0">
+<map name="ZGpJX7CwaUaehTDxuKaQog">
+<area shape="rect" coords="157, 332, 178, 352" href="http://hightechhealth.com" alt="http://hightechhealth.com">
+<area shape="rect" coords="9, 330, 180, 354" href="http://hightechhealth.com" alt="http://hightechhealth.com">
+<area shape="rect" coords="149, 257, 170, 278" href="http://www.optimumhealth.org" alt="http://www.optimumhealth.org">
+<area shape="rect" coords="36, 244, 172, 280" href="http://www.optimumhealth.org" alt="http://www.optimumhealth.org">
+<area shape="rect" coords="870, 176, 891, 197" href="http://www.HealersLibrary.com/store" alt="http://www.HealersLibrary.com/store">
+<area shape="rect" coords="767, 60, 905, 199" href="http://www.HealersLibrary.com/store" alt="http://www.HealersLibrary.com/store">
+<area shape="rect" coords="369, 195, 389, 216" href="LinkedDocuments/BC-liver-gallbladder-flush.pdf" alt="BC-liver-gallbladder-flush.pdf">
+<area shape="rect" coords="176, 192, 394, 218" href="LinkedDocuments/BC-liver-gallbladder-flush.pdf" alt="BC-liver-gallbladder-flush.pdf">
+<area shape="rect" coords="369, 143, 389, 164" href="LinkedDocuments/BC-Liver-Cleanse.pdf" alt="BC-Liver-Cleanse.pdf">
+<area shape="rect" coords="245, 140, 394, 166" href="LinkedDocuments/BC-Liver-Cleanse.pdf" alt="BC-Liver-Cleanse.pdf">
+<area shape="rect" coords="871, 313, 892, 334" href="http://www.HealersLibrary.com/store" alt="http://www.HealersLibrary.com/store">
+<area shape="rect" coords="767, 208, 906, 336" href="http://www.HealersLibrary.com/store" alt="http://www.HealersLibrary.com/store">
+<area shape="rect" coords="584, 252, 605, 272" href="../Physical Needs/index.html" alt="Physical Needs">
+<area shape="rect" coords="407, 226, 607, 274" href="../Physical Needs/index.html" alt="Physical Needs">
+<area shape="rect" coords="526, 337, 547, 358" href="../The Body Code 2.0/index.html" alt="The Body Code 2.0">
+<area shape="rect" coords="464, 297, 549, 358" href="../The Body Code 2.0/index.html" alt="The Body Code 2.0">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

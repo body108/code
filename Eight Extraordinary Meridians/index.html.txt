@@ -1,0 +1,25 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#PxuuZpV3oUqIdXfe45HlQ" alt="Eight Extraordinary Meridians" border ="0">
+<map name="PxuuZpV3oUqIdXfe45HlQ">
+<area shape="rect" coords="287, 270, 307, 290" href="file:///v:/Yangming Stomach Channel of Foot/index.html" alt="Yangming Stomach Channel of Foot ">
+<area shape="rect" coords="9, 241, 312, 292" href="file:///v:/Yangming Stomach Channel of Foot/index.html" alt="Yangming Stomach Channel of Foot ">
+<area shape="rect" coords="775, 355, 795, 375" href="file:///v:/Yangming Stomach Channel of Foot/index.html" alt="Yangming Stomach Channel of Foot ">
+<area shape="rect" coords="522, 326, 797, 377" href="file:///v:/Yangming Stomach Channel of Foot/index.html" alt="Yangming Stomach Channel of Foot ">
+<area shape="rect" coords="303, 434, 323, 453" href="file:///v:/Yangming Stomach Channel of Foot/index.html" alt="Yangming Stomach Channel of Foot ">
+<area shape="rect" coords="54, 404, 328, 455" href="file:///v:/Yangming Stomach Channel of Foot/index.html" alt="Yangming Stomach Channel of Foot ">
+<area shape="rect" coords="843, 415, 863, 434" href="file:///v:/Yangming Stomach Channel of Foot/index.html" alt="Yangming Stomach Channel of Foot ">
+<area shape="rect" coords="506, 404, 865, 436" href="file:///v:/Yangming Stomach Channel of Foot/index.html" alt="Yangming Stomach Channel of Foot ">
+<area shape="rect" coords="786, 182, 806, 202" href="file:///v:/Yangming Stomach Channel of Foot/index.html" alt="Yangming Stomach Channel of Foot ">
+<area shape="rect" coords="506, 153, 808, 204" href="file:///v:/Yangming Stomach Channel of Foot/index.html" alt="Yangming Stomach Channel of Foot ">
+<area shape="rect" coords="287, 346, 307, 365" href="file:///v:/Yangming Stomach Channel of Foot/index.html" alt="Yangming Stomach Channel of Foot ">
+<area shape="rect" coords="8, 316, 312, 367" href="file:///v:/Yangming Stomach Channel of Foot/index.html" alt="Yangming Stomach Channel of Foot ">
+<area shape="rect" coords="495, 324, 515, 344" href="../Meridians/index.html" alt="Meridians">
+<area shape="rect" coords="318, 262, 516, 346" href="../Meridians/index.html" alt="Meridians">
+<area shape="rect" coords="303, 182, 323, 202" href="file:///v:/Yangming Stomach Channel of Foot/index.html" alt="Yangming Stomach Channel of Foot ">
+<area shape="rect" coords="35, 153, 328, 204" href="file:///v:/Yangming Stomach Channel of Foot/index.html" alt="Yangming Stomach Channel of Foot ">
+<area shape="rect" coords="787, 280, 806, 300" href="file:///v:/Yangming Stomach Channel of Foot/index.html" alt="Yangming Stomach Channel of Foot ">
+<area shape="rect" coords="522, 250, 809, 301" href="file:///v:/Yangming Stomach Channel of Foot/index.html" alt="Yangming Stomach Channel of Foot ">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->

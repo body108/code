@@ -1,0 +1,9 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.gif" usemap="#H0FrFkSOpEaKxw8rtiwkhQ" alt="Despair Anchor" border ="0">
+<map name="H0FrFkSOpEaKxw8rtiwkhQ">
+<area shape="rect" coords="197, 276, 218, 297" href="../Mental/index.html" alt="Mental">
+<area shape="rect" coords="8, 157, 220, 299" href="../Mental/index.html" alt="Mental">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->
